@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nico!</h1>
 <h3 align="center">I'm a Front End Engineer based in Kharkiv, Ukraine 🇺🇦. I describe myself as a passionate developer who loves coding, open source, and the web platform ❤️. </h3>
- <h3>I like learining new stuff, grow as a developer and support others on their path. Also I enjoy writing technical things ✍️ at my blog.</h3>
- <h3>In my free time you can find me playing guitar 🎸, meditating 🧘‍♂️, playing video games 🎮 on tech meetups and conferences around Ukraine and Europe 🗺</h3>
+ <h3  align="center">I like learining new stuff, grow as a developer and support others on their path. Also I enjoy writing technical things ✍️ at my blog.</h3>
+ <h3  align="center">In my free time you can find me playing guitar 🎸, meditating 🧘‍♂️, playing video games 🎮 on tech meetups and conferences around Ukraine and Europe 🗺</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yeldynov&label=Profile%20views&color=0e75b6&style=flat" alt="yeldynov" /> </p>
 
