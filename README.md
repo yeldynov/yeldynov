@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Nikita Yeldynov</h1>
-<h3 align="center">A passionate fullstack javascript developer from Kharkiv, Ukraine. I am able to realise projects from the ground up. Used to learn a lot by myself, I'm well versed in all the key programming languages and able to design, code and deploy in an organised and efficient manner.</h3>
+<h1 align="center">Hi 👋, I'm Nico!</h1>
+<h3 align="center">I'm a Front End Engineer based in Kharkiv, Ukraine 🇺🇦. I describe myself as a passionate developer who loves coding, open source, and the web platform ❤️. I like learining new stuff, grow as a developer and support others on their path. Also I enjoy writing technical things ✍️ at my blog. In my free time you can find me playing guitar 🎸, meditating 🧘‍♂️, playing video games 🎮 on tech meetups and conferences around Ukraine and Europe 🗺</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yeldynov&label=Profile%20views&color=0e75b6&style=flat" alt="yeldynov" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yeldynov" alt="yeldynov" /></a> </p>
 
 - 🔭 I’m currently working on **creating beautiful apps.**
 
@@ -12,8 +16,6 @@
 - 💬 Ask me about **html & css, js**
 
 - 📫 How to reach me **yeldynov@gmail.com**
-- 
-- [![codewars](https://www.codewars.com/users/yeldynov%20/badges/small)](https://www.codewars.com/users/yeldynov%20)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,10 +29,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yeldynov&show_icons=true&locale=en&layout=compact" alt="yeldynov" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yeldynov&show_icons=true&locale=en" alt="yeldynov" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yeldynov&" alt="yeldynov" /></p>
-
-![](https://komarev.com/ghpvc/?username=yeldynov)
-
-
-
