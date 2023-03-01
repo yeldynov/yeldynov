@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://yeldynov-dev.netlify.app/](https://yeldynov-dev.netlify.app/)
 
-- 💬 Ask me about **html & css, js**
+- 💬 Ask me about **HTML, CSS & JavaScript**
 
 - 📫 How to reach me **yeldynov@gmail.com**
 
