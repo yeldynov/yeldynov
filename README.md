@@ -2,5 +2,5 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Frontend/React Developer from Kharkiv, Ukraine</h3>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeldynov)](https://github.com/yeldynov/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeldynov&layout=compact)](https://github.com/yeldynov/github-readme-stats)
+[![codewars](https://www.codewars.com/users/yeldynov/badges/large)](https://www.codewars.com/users/yeldynov)   
