@@ -5,7 +5,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeldynov&layout=compact)](https://github.com/yeldynov/github-readme-stats)
 
 [![codewars](https://www.codewars.com/users/yeldynov%20/badges/small)](https://www.codewars.com/users/yeldynov%20)   
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=yeldynov)
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=yeldynov)](https://github.com/yeldynov/github-readme-activity-graph)
 
