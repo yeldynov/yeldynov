@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nikita Yeldynov</h1>
 <h3 align="center">A passionate fullstack javascript developer from Kharkiv, Ukraine. I am able to realise projects from the ground up. Used to learn a lot by myself, I'm well versed in all the key programming languages and able to design, code and deploy in an organised and efficient manner.</h3>
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
 - 🔭 I’m currently working on **creating beautiful apps.**
 
 - 🌱 I’m currently learning **react/next.js**
@@ -29,7 +27,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yeldynov&show_icons=true&locale=en&layout=compact" alt="yeldynov" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yeldynov&show_icons=true&locale=en" alt="yeldynov" /></p>
+<p>&nbsp;<img align="center" src=(https://readme-jokes.vercel.app/api)" alt="yeldynov" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yeldynov&" alt="yeldynov" /></p>
 
