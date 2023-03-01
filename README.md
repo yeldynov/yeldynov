@@ -27,7 +27,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yeldynov&show_icons=true&locale=en&layout=compact" alt="yeldynov" /></p>
 
-<p>&nbsp;<img align="center" src=https://readme-jokes.vercel.app/api" alt="yeldynov" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yeldynov&" alt="yeldynov" /></p>
 
