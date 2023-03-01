@@ -8,3 +8,4 @@
 ![](https://komarev.com/ghpvc/?username=yeldynov)
 
 
+![Jokes Card](https://readme-jokes.vercel.app/api)
