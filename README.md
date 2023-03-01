@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm Nico!</h1>
+<h1 align="center">Hi 👋, I'm Nikita Yeldynov</h1>
 <h3 align="center">A passionate fullstack javascript developer from Kharkiv, Ukraine. I am able to realise projects from the ground up. Used to learn a lot by myself, I'm well versed in all the key programming languages and able to design, code and deploy in an organised and efficient manner.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yeldynov&label=Profile%20views&color=0e75b6&style=flat" alt="yeldynov" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yeldynov" alt="yeldynov" /></a> </p>
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 - 🔭 I’m currently working on **creating beautiful apps.**
 
@@ -16,6 +14,8 @@
 - 💬 Ask me about **html & css, js**
 
 - 📫 How to reach me **yeldynov@gmail.com**
+- 
+- [![codewars](https://www.codewars.com/users/yeldynov%20/badges/small)](https://www.codewars.com/users/yeldynov%20)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -33,10 +33,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yeldynov&" alt="yeldynov" /></p>
 
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeldynov&layout=compact)](https://github.com/yeldynov/github-readme-stats)
-[![codewars](https://www.codewars.com/users/yeldynov%20/badges/small)](https://www.codewars.com/users/yeldynov%20)   
 ![](https://komarev.com/ghpvc/?username=yeldynov)
 
 
