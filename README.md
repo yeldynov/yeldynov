@@ -10,9 +10,9 @@
 
 - 👯 I’m looking to collaborate on **react projects**
 
-- 👨‍ Check out my projects at [https://www.frontendmentor.io/profile/yeldynov/](Frontend Mentor)
+- 👨‍ Check out my projects at [Frontend Mentor](https://www.frontendmentor.io/profile/yeldynov/)
 
-- 👯 Also let's code together on [https://www.codewars.com/users/yeldynov%20/](Codewars)
+- 👯 Also let's code together on [Codewars](https://www.codewars.com/users/yeldynov%20/)
 
 - 👨‍💻 Some other my projects are available at [https://yeldynov-dev.netlify.app/](https://yeldynov-dev.netlify.app/)
 
