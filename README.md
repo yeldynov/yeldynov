@@ -10,7 +10,11 @@
 
 - 👯 I’m looking to collaborate on **react projects**
 
-- 👨‍💻 All of my projects are available at [https://yeldynov-dev.netlify.app/](https://yeldynov-dev.netlify.app/)
+- 👨‍ Check out my projects at [https://www.frontendmentor.io/profile/yeldynov](Frontend Mentor)
+
+- 👯 Also let's code together on [https://www.codewars.com/users/yeldynov%20](Codewars)
+
+- 👨‍💻 Some other my projects are available at [https://yeldynov-dev.netlify.app/](https://yeldynov-dev.netlify.app/)
 
 - 💬 Ask me about **HTML, CSS & JavaScript**
 
