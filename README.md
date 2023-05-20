@@ -4,11 +4,11 @@
  <h3 align="center">In my free time you can find me playing guitar 🎸, meditating 🧘‍♂️, playing video games 🎮 or on tech meetups and conferences around Ukraine and Europe 🗺</h3>
 
 
-- 🔭 I’m currently working on **creating beautiful apps.**
+- 🔭 I’m currently working on **creating react/react native apps.**
 
-- 🌱 I’m currently learning **react/next.js**
+- 🌱 I’m also learning **c++/c#** because it's interesting af.
 
-- 👯 I’m looking to collaborate on **react projects**
+- 👯 I’m looking to collaborate on **interesting projects**
 
 - 👨‍ Check out my projects at [Frontend Mentor](https://www.frontendmentor.io/profile/yeldynov/)
 
