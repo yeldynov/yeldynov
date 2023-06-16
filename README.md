@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **creating react/react native apps.**
 
-- 🌱 I’m also learning **c++/c#** because it's interesting af.
+- 🌱 I’m also learning **python** 🐍.
 
 - 👯 I’m looking to collaborate on **interesting projects**
 
