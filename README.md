@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **HTML, CSS & JavaScript**
 
-- 📫 How to reach me **yeldynov@gmail.com**
+- 📫 How to reach me **yeldynovn@gmail.com**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yeldynov&label=Profile%20views&color=0e75b6&style=flat" alt="yeldynov" /> </p>
 
