@@ -1,14 +1,17 @@
 <h1 align="center">Hi 👋, I'm Nikita!</h1>
-<h3 align="center">I'm a Frontend Engineer from Kharkiv, Ukraine 🇺🇦. I describe myself as a passionate developer who loves coding, open source, and the web platform ❤️. </h3>
+<h3 align="center">I'm a Fullstack JS Engineer from Kharkiv, Ukraine 🇺🇦. I describe myself as a passionate developer who loves coding, open source, and the web platform ❤️. </h3>
  <h3 align="center">I like learining new stuff, grow as a developer and support others.</h3>
  <h3 align="center">In my free time you can find me playing guitar 🎸, meditating 🧘‍♂️, playing video games 🎮 or on tech meetups and conferences around Ukraine and Europe 🗺</h3>
 
 
-- 🔭 I’m currently working on **creating react/react native apps.**
+- 🔭 I’m currently working as a ** Fullstack Freelancer on Upwork**
+
+-  For Frontend I like to use ** NextJS/React + tailwind CCS **
+-  For Backend I like to use ** Node Express + MongoDB **
 
 - 🌱 I’m also learning **python** 🐍.
 
-- 👯 I’m looking to collaborate on **interesting projects**
+- 👯 I’m looking to collaborate on **NextJS/React Native apps**
 
 - 👨‍ Check out my projects at [Frontend Mentor](https://www.frontendmentor.io/profile/yeldynov/)
 
