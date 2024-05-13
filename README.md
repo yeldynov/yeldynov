@@ -3,14 +3,14 @@
  <h3 align="center">I like learining new stuff, grow as a developer and support others.</h3>
  <h3 align="center">In my free time you can find me playing guitar 🎸, meditating 🧘‍♂️, playing video games 🎮 or on tech meetups and conferences around Ukraine and Europe 🗺</h3>
 
-
+<br/>
 - 🔭 I’m currently working as a **Freelancer on Upwork Platform**
   
 - 👨‍💻 For Frontend I like to use **NextJS/React + tailwind CCS**
   
 - 🥷 For Backend I like to use **Node Express + MongoDB**
   
-<br/><br/>
+<br/>
 
 - 👨‍ Check out my projects at [Frontend Mentor](https://www.frontendmentor.io/profile/yeldynov/)
 
