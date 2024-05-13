@@ -9,6 +9,7 @@
 - 👨‍💻 For Frontend I like to use **NextJS/React + tailwind CCS**
 - 🥷 For Backend I like to use **Node Express + MongoDB**
 
+
 - 🌱 I’m also learning **python** 🐍.
 
 - 👯 I’m looking to collaborate on **NextJS/React Native apps**
