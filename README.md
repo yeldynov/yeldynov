@@ -17,8 +17,6 @@
 
 - 👯 Also let's code together on [Codewars](https://www.codewars.com/users/yeldynov%20/)
 
-- 👨‍💻 Some other my projects are available at [https://yeldynov-dev.netlify.app/](https://yeldynov-dev.netlify.app/)
-
 - 📫 You can reach me at **yeldynovn@gmail.com**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yeldynov&label=Profile%20views&color=0e75b6&style=flat" alt="yeldynov" /> </p>
