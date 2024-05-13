@@ -5,10 +5,12 @@
 
 
 - 🔭 I’m currently working as a **Freelancer on Upwork Platform**
+  
 - 👨‍💻 For Frontend I like to use **NextJS/React + tailwind CCS**
+  
 - 🥷 For Backend I like to use **Node Express + MongoDB**
+  
 <br/><br/>
-
 
 - 👨‍ Check out my projects at [Frontend Mentor](https://www.frontendmentor.io/profile/yeldynov/)
 
@@ -16,9 +18,7 @@
 
 - 👨‍💻 Some other my projects are available at [https://yeldynov-dev.netlify.app/](https://yeldynov-dev.netlify.app/)
 
-- 💬 Ask me about **HTML, CSS & JavaScript**
-
-- 📫 How to reach me **yeldynovn@gmail.com**
+- 📫 You can reach me at **yeldynovn@gmail.com**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yeldynov&label=Profile%20views&color=0e75b6&style=flat" alt="yeldynov" /> </p>
 
