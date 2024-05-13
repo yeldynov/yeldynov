@@ -7,7 +7,7 @@
 - 🔭 I’m currently working as a **Freelancer on Upwork Platform**
 - 👨‍💻 For Frontend I like to use **NextJS/React + tailwind CCS**
 - 🥷 For Backend I like to use **Node Express + MongoDB**
-``
+<br/><br/>
 
 
 - 👨‍ Check out my projects at [Frontend Mentor](https://www.frontendmentor.io/profile/yeldynov/)
