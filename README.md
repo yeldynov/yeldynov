@@ -9,7 +9,7 @@
 - 🥷 For Backend I like to use **Node Express + MongoDB**
 
 \
-\
+
 
 - 👨‍ Check out my projects at [Frontend Mentor](https://www.frontendmentor.io/profile/yeldynov/)
 
