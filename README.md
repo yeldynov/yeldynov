@@ -1,7 +1,8 @@
-<h1 align="center">Hi 👋, I'm Nikita!</h1>
-<h3 align="center">I'm a Fullstack Javascript Engineer from Kharkiv, Ukraine 🇺🇦. <br/> I describe myself as a passionate developer who loves coding, open source, and the web platform ❤️. </h3>
- <h3 align="center">I like learining new stuff, grow as a developer and support others.</h3>
- <h3 align="center">In my free time you can find me playing guitar 🎸, meditating 🧘‍♂️, playing video games 🎮 or on tech meetups and conferences around Ukraine and Europe 🗺</h3>
+![Header](./github-header-image.png)
+
+<h1 align="center">Nikita Yeldynov</h1>
+<h3 align="center">I'm a Fullstack Javascript Developer from Ukraine. <br/> I am as a passionate developer who loves coding, open source, and the web platform ❤️. </h3>
+ <h3 align="center">I also like learining new stuff, grow as a developer and support others.</h3>
 
 <br/>
 
