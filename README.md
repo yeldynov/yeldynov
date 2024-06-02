@@ -4,7 +4,7 @@
 
 <br/>
 
-- 🧙‍♂️ I’m currently working as a **Freelancer on [Upwork Platform](https://www.upwork.com/freelancers/~01666af90b1c137ab9)**
+- 🧙‍♂️ I’m currently working as a **Freelancer on the [Upwork Platform](https://www.upwork.com/freelancers/~01666af90b1c137ab9)**
   
 - 👨‍💻 For Frontend I like to use **NextJS/React + tailwind CSS**
   
