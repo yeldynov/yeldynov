@@ -6,9 +6,9 @@
 
 - 🧙‍♂️ I’m currently working as a **Freelancer on the [Upwork Platform](https://www.upwork.com/freelancers/~01666af90b1c137ab9)**
   
-- 👨‍💻 For Frontend I like to use **NextJS/React + tailwind CSS**
+- 👨‍💻 For Frontend I prefer to use **NextJS/React + tailwind CSS**
   
-- 🥷 For Backend I like to use **Node Express + MongoDB**
+- 🥷 For Backend I prefer to use **Node Express + MongoDB**
   
 <br/>
 
