@@ -1,7 +1,7 @@
 ![Header](./gh_header.png)
-<h3 align="center">I'm a Fullstack Javascript Developer from Ukraine. <br/> I am as a passionate developer who loves coding, open source, and the web platform ❤️. </h3>
- <h3 align="center">I like learining new things, grow as a developer and support others.</h3>
-
+<h3 align="center">I'm a Fullstack JavaScript Developer from Ukraine. <br/> I am a passionate developer who loves coding, open source, and the web platform ❤️. </h3>
+ <h3 align="center">I enjoy learning new things, growing as a developer, and supporting others.</h3>
+ <h3 align="center">I approach each challenge with enthusiasm and determination.</h3>
 <br/>
 
 - 🧙‍♂️ I’m currently a **Freelancer on [Upwork Platform](https://www.upwork.com/freelancers/~01666af90b1c137ab9)**
