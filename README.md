@@ -1,5 +1,5 @@
 ![Header](./gh_header.png)
-<h3 align="center">I'm a Fullstack JavaScript Developer from Ukraine. <br/> I am a passionate developer who loves coding, open source, and the web platform ❤️. </h3>
+<h3 align="center">I'm a Fullstack JavaScript Developer from Ukraine. <br/> I am passionate about coding, open source, and the web platform ❤️. </h3>
  <h3 align="center">I enjoy learning new things, growing as a developer, and supporting others.</h3>
  <h3 align="center">I approach each challenge with enthusiasm and determination.</h3>
 <br/>
