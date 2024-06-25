@@ -4,7 +4,7 @@
  <h3 align="center">I approach each challenge with enthusiasm and determination.</h3>
 <br/>
 
-- 🧙‍♂️ I’m currently **freelancing on [Upwork Platform](https://www.upwork.com/freelancers/~01666af90b1c137ab9)**
+- 🧙‍♂️ I’m currently **freelancing on [Upwork](https://www.upwork.com/freelancers/~01666af90b1c137ab9)**
   
 - 👨‍💻 For Frontend I prefer **[Next.js/React + Tailwind CSS](https://github.com/yeldynov)**
   
