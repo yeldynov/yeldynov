@@ -1,7 +1,8 @@
 ![Header](./gh_header.png)
-<h3 align="center">I'm a JavaScript Developer from Ukraine. <br/> I am passionate about coding, open source, and the web platform ❤️. </h3>
- <h3 align="center">I like learning new things, growing as a developer, and helping others.</h3>
- <h3 align="center">I approach each challenge with enthusiasm and determination.</h3>
+<h3 align="center">I'm a Fullstack JavaScript Developer from Ukraine.</h3> 
+<h3> I am passionate about coding, open source, and the web platform ❤️. </h3>
+<h3 align="center">I like learning new things, evolving as a developer and helping others.</h3>
+<h3 align="center">I approach each challenge with enthusiasm and determination.</h3>
 <br/>
 
 - 🧙‍♂️ I’m currently **freelancing on [Upwork](https://www.upwork.com/freelancers/~01666af90b1c137ab9)**
