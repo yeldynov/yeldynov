@@ -35,4 +35,5 @@
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yeldynov&&show_icons=true&theme=one_dark_pro&locale=en&layout=compact" alt="yeldynov" /></p> 
  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=yeldynov&theme=one_dark_pro&card_height=160" alt="GitHub Streak" /></a>
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yeldynov&" alt="yeldynov" /></p> -->
+[![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yeldynov&bg_color=21252c&color=fcfcfc&line=1da5d3&point=f96afb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
