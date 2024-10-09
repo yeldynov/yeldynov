@@ -36,6 +36,6 @@
  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=yeldynov&theme=one_dark_pro&card_height=160" alt="GitHub Streak" /></a>
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yeldynov&" alt="yeldynov" /></p> -->
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yeldynov&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yeldynov&theme=react-dark&height=400)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
