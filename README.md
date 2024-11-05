@@ -22,14 +22,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yeldynov&label=Profile%20views&color=0e75b6&style=flat" alt="yeldynov" /> </p>
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/nikita-yeldynov-716b7214a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikita-yeldynov-716b7214a" height="30" width="40" /></a>
-<a href="https://fb.com/yeldynov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yeldynov" height="30" width="40" /></a>
-<a href="https://instagram.com/yeldynov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yeldynov" height="30" width="40" /></a>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=figma,xd,css,html,js,ts,sass,less,tailwind,bootstrap,materialui,alpinejs,react,redux,nextjs,gatsby,threejs,unity,postman,regex,bots,nodejs,express,php,mongodb,mysql,postgres,sqlite,prisma,docker,linux,git,md,vercel,netlify,appwrite,azure,vite,yarn,npm,ps)](https://github.com/yeldynov)
