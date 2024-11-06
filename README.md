@@ -1,7 +1,7 @@
 ![Header](./gh-oct.png)
 
 <h3 align="center">I'm a Fullstack Javascript Developer from Kharkiv, Ukraine.</h3> 
-<h3 align="center"> I have a great passion for coding, open source, and the web platform. </h3>
+<h3 align="center"> I have a passion for coding, open source, and the web platform. </h3>
 <h3 align="center">I like learning new things, evolving as a developer and helping others.</h3>
 <h3 align="center">I approach each challenge with enthusiasm and determination.</h3>
 <br/>
