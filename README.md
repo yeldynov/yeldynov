@@ -1,4 +1,4 @@
-![Header](./gh-oct.png)
+![Header](./gh_header_real.png)
 
 <h3 align="center">I'm a Fullstack Javascript Developer from Kharkiv, Ukraine.</h3> 
 <h3 align="center"> I am passionate about coding, open source, and the web platform. </h3>
