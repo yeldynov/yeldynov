@@ -14,11 +14,14 @@
   
 <br/>
 
-- 👨‍ Check out my projects at [Frontend Mentor](https://www.frontendmentor.io/profile/yeldynov/)
+- 💼 Check out my [Portfolio](https://yeldynov.netlify.app/)
+  
+- 👨‍ More projects at [Frontend Mentor](https://www.frontendmentor.io/profile/yeldynov/)
 
 - 👯 Also let's code together on [Codewars](https://www.codewars.com/users/yeldynov%20/)
 
-- 📫 You can reach me at **yeldynovn@gmail.com**
+- 📫 You can reach me directly at **yeldynovn@gmail.com**
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yeldynov&label=Profile%20views&color=0e75b6&style=flat" alt="yeldynov" /> </p>
 
