@@ -8,7 +8,7 @@
 
 - 🧙‍♂️ I’m currently **freelancing on [Upwork](https://www.upwork.com/freelancers/~01666af90b1c137ab9)**
   
-- 👨‍💻 For Front-end I prefer **[React/Next.js + Tailwind CSS](https://github.com/yeldynov)**
+- 👨‍💻 For Front-end I prefer **[React / Next.js + Tailwind CSS](https://github.com/yeldynov)**
   
 - 🥷 For Back-end I prefer **[Node Express + MongoDB](https://github.com/yeldynov)**
   
