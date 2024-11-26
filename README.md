@@ -16,7 +16,7 @@
 
 - 💼 Check out my [Portfolio](https://yeldynov.netlify.app/)
   
-- 👨‍ More projects at [Frontend Mentor](https://www.frontendmentor.io/profile/yeldynov/)
+- 👨‍ More Projects at [Frontend Mentor](https://www.frontendmentor.io/profile/yeldynov/)
 
 - 👯 Also let's code together on [Codewars](https://www.codewars.com/users/yeldynov%20/)
 
