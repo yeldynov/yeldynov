@@ -6,18 +6,19 @@
 <h3 align="center">I approach every challenge with enthusiasm and determination.</h3>
 <br/>
 
-<ul style="list-style=none">
-  <li> - 🧙‍♂️ I’m currently <strong>freelancing on <a href="https://www.upwork.com/freelancers/~01666af90b1c137ab9" target="_blank" rel="noopener noreferrer">Upwork</a></strong></li>
-  <li> - 👨‍💻 For Front-end I prefer <strong><a href="https://github.com/yeldynov" target="_blank" rel="noopener noreferrer">React / Next.js + Tailwind CSS</a></strong></li>
-  <li> - 🥷 For Back-end I prefer <strong><a href="https://github.com/yeldynov" target="_blank" rel="noopener noreferrer">Node Express + MongoDB</a></strong></li>
-</ul>
-<br />
-<ul>
-  <li> - 💼 Check out my <a href="https://yeldynov.tech/" target="_blank" rel="noopener noreferrer">Portfolio</a></li>
-  <li> - 👨‍ More Projects at <a href="https://www.frontendmentor.io/profile/yeldynov/" target="_blank" rel="noopener noreferrer">Frontend Mentor</a></li>
-  <li> - 👯 Also let's code together on <a href="https://www.codewars.com/users/yeldynov%20/" target="_blank" rel="noopener noreferrer">Codewars</a></li>
-  <li> - 📫 You can reach me directly at <strong>yeldynovn@gmail.com</strong></li>
-</ul>
+- 🧙‍♂️ I’m currently **freelancing on [Upwork](https://www.upwork.com/freelancers/~01666af90b1c137ab9){:target="_blank"}**
+
+- 👨‍💻 For Front-end I prefer **[React / Next.js + Tailwind CSS](https://github.com/yeldynov){:target="_blank"}**
+
+- 🥷 For Back-end I prefer **[Node Express + MongoDB](https://github.com/yeldynov){:target="_blank"}**
+
+- 💼 Check out my [Portfolio](https://yeldynov.tech/){:target="_blank"}
+
+- 👨‍ More Projects at [Frontend Mentor](https://www.frontendmentor.io/profile/yeldynov/){:target="_blank"}
+
+- 👯 Also let's code together on [Codewars](https://www.codewars.com/users/yeldynov%20/){:target="_blank"}
+
+- 📫 You can reach me directly at **yeldynovn@gmail.com**
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yeldynov&label=Profile%20views&color=0e75b6&style=flat" alt="yeldynov" /> </p>
