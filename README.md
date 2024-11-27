@@ -6,7 +6,7 @@
 <h3 align="center">I approach every challenge with enthusiasm and determination.</h3>
 <br/>
 
-<ul>
+<ul style="list-style=none">
   <li> - 🧙‍♂️ I’m currently <strong>freelancing on <a href="https://www.upwork.com/freelancers/~01666af90b1c137ab9" target="_blank" rel="noopener noreferrer">Upwork</a></strong></li>
   <li> - 👨‍💻 For Front-end I prefer <strong><a href="https://github.com/yeldynov" target="_blank" rel="noopener noreferrer">React / Next.js + Tailwind CSS</a></strong></li>
   <li> - 🥷 For Back-end I prefer <strong><a href="https://github.com/yeldynov" target="_blank" rel="noopener noreferrer">Node Express + MongoDB</a></strong></li>
