@@ -6,19 +6,19 @@
 <h3 align="center">I approach every challenge with enthusiasm and determination.</h3>
 <br/>
 
-- 🧙‍♂️ I’m currently **freelancing on [Upwork](https://www.upwork.com/freelancers/~01666af90b1c137ab9){:target="_blank"}**
+- 🧙‍♂️ I’m currently <strong>freelancing on <a href="https://www.upwork.com/freelancers/~01666af90b1c137ab9" target="_blank" rel="noopener noreferrer">Upwork</a></strong><br />
 
-- 👨‍💻 For Front-end I prefer **[React / Next.js + Tailwind CSS](https://github.com/yeldynov){:target="_blank"}**
+- 👨‍💻 For Front-end I prefer <strong><a href="https://github.com/yeldynov" target="_blank" rel="noopener noreferrer">React / Next.js + Tailwind CSS</a></strong><br />
 
-- 🥷 For Back-end I prefer **[Node Express + MongoDB](https://github.com/yeldynov){:target="_blank"}**
+- 🥷 For Back-end I prefer <strong><a href="https://github.com/yeldynov" target="_blank" rel="noopener noreferrer">Node Express + MongoDB</a></strong><br />
 
-- 💼 Check out my [Portfolio](https://yeldynov.tech/){:target="_blank"}
+- 💼 Check out my <a href="https://yeldynov.tech/" target="_blank" rel="noopener noreferrer">Portfolio</a><br />
 
-- 👨‍ More Projects at [Frontend Mentor](https://www.frontendmentor.io/profile/yeldynov/){:target="_blank"}
+- 👨‍ More Projects at <a href="https://www.frontendmentor.io/profile/yeldynov/" target="_blank" rel="noopener noreferrer">Frontend Mentor</a><br />
 
-- 👯 Also let's code together on [Codewars](https://www.codewars.com/users/yeldynov%20/){:target="_blank"}
+- 👯 Also let's code together on <a href="https://www.codewars.com/users/yeldynov%20/" target="_blank" rel="noopener noreferrer">Codewars</a><br />
 
-- 📫 You can reach me directly at **yeldynovn@gmail.com**
+- 📫 You can reach me directly at <strong>yeldynovn@gmail.com</strong>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yeldynov&label=Profile%20views&color=0e75b6&style=flat" alt="yeldynov" /> </p>
