@@ -6,14 +6,14 @@
 <h3 align="center">I approach every challenge with enthusiasm and determination.</h3>
 <br/>
 
-<p>- 🧙‍♂️ I’m currently <strong>freelancing on <a href="https://www.upwork.com/freelancers/~01666af90b1c137ab9" target="_blank" rel="noopener noreferrer">Upwork</a></strong></p>
-<p>- 👨‍💻 For Front-end I prefer <strong><a href="https://github.com/yeldynov" target="_blank" rel="noopener noreferrer">React / Next.js + Tailwind CSS</a></strong></p>
-<p>- 🥷 For Back-end I prefer <strong><a href="https://github.com/yeldynov" target="_blank" rel="noopener noreferrer">Node Express + MongoDB</a></strong></p>
+<p>— 🧙‍♂️ I’m currently <strong>freelancing on <a href="https://www.upwork.com/freelancers/~01666af90b1c137ab9" target="_blank" rel="noopener noreferrer">Upwork</a></strong></p>
+<p>—👨‍💻 For Front-end I prefer <strong><a href="https://github.com/yeldynov" target="_blank" rel="noopener noreferrer">React / Next.js + Tailwind CSS</a></strong></p>
+<p>— 🥷 For Back-end I prefer <strong><a href="https://github.com/yeldynov" target="_blank" rel="noopener noreferrer">Node Express + MongoDB</a></strong></p>
 <br/>
-<p>- 💼 Check out my <a href="https://yeldynov.tech/" target="_blank" rel="noopener noreferrer">Portfolio</a></p>
-<p>- 👨‍ More Projects at <a href="https://www.frontendmentor.io/profile/yeldynov/" target="_blank" rel="noopener noreferrer">Frontend Mentor</a></p>
-<p>- 👯 Also let's code together on <a href="https://www.codewars.com/users/yeldynov%20/" target="_blank" rel="noopener noreferrer">Codewars</a></p>
-<p>- 📫 You can reach me directly at <strong>yeldynovn@gmail.com</strong></p>
+<p>— 💼 Check out my <a href="https://yeldynov.tech/" target="_blank" rel="noopener noreferrer">Portfolio</a></p>
+<p>— 👨‍ More Projects at <a href="https://www.frontendmentor.io/profile/yeldynov/" target="_blank" rel="noopener noreferrer">Frontend Mentor</a></p>
+<p>— 👯 Also let's code together on <a href="https://www.codewars.com/users/yeldynov%20/" target="_blank" rel="noopener noreferrer">Codewars</a></p>
+<p>— 📫 You can reach me directly at <strong> <a href="mailto:yeldynovn@gmail.com" target="_blank" rel="noopener noreferrer">yeldynovn@gmail.com</a></strong></p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yeldynov&label=Profile%20views&color=0e75b6&style=flat" alt="yeldynov" /> </p>
