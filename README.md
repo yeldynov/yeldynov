@@ -6,19 +6,19 @@
 <h3 align="center">I approach every challenge with enthusiasm and determination.</h3>
 <br/>
 
-- 🧙‍♂️ I’m currently **freelancing on [Upwork](https://www.upwork.com/freelancers/~01666af90b1c137ab9)**
-  
-- 👨‍💻 For Front-end I prefer **[React / Next.js + Tailwind CSS](https://github.com/yeldynov)**
-  
-- 🥷 For Back-end I prefer **[Node Express + MongoDB](https://github.com/yeldynov)**
-  
+- 🧙‍♂️ I’m currently **freelancing on [Upwork](https://www.upwork.com/freelancers/~01666af90b1c137ab9){:target="_blank"}**
+
+- 👨‍💻 For Front-end I prefer **[React / Next.js + Tailwind CSS](https://github.com/yeldynov){:target="_blank"}**
+
+- 🥷 For Back-end I prefer **[Node Express + MongoDB](https://github.com/yeldynov){:target="_blank"}**
+
 <br/>
 
-- 💼 Check out my [Portfolio](https://yeldynov.tech/)
-  
-- 👨‍ More Projects at [Frontend Mentor](https://www.frontendmentor.io/profile/yeldynov/)
+- 💼 Check out my [Portfolio](https://yeldynov.tech/){:target="_blank"}
 
-- 👯 Also let's code together on [Codewars](https://www.codewars.com/users/yeldynov%20/)
+- 👨‍ More Projects at [Frontend Mentor](https://www.frontendmentor.io/profile/yeldynov/){:target="_blank"}
+
+- 👯 Also let's code together on [Codewars](https://www.codewars.com/users/yeldynov%20/){:target="_blank"}
 
 - 📫 You can reach me directly at **yeldynovn@gmail.com**
 
