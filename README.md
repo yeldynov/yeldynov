@@ -10,9 +10,9 @@
 <p> 👨‍💻 For Front-end I prefer <strong><a href="https://github.com/yeldynov" target="_blank" rel="noopener noreferrer">React / Next.js + Tailwind CSS</a></strong></p>
 <p> 🥷 For Back-end I prefer <strong><a href="https://github.com/yeldynov" target="_blank" rel="noopener noreferrer">Node Express + MongoDB</a></strong></p>
 <br/>
-<p> 💼 Check out my <a href="https://yeldynov.tech/" target="_blank" rel="noopener noreferrer">Portfolio</a></p>
-<p> 👨‍ More Projects at <a href="https://www.frontendmentor.io/profile/yeldynov/" target="_blank" rel="noopener noreferrer">Frontend Mentor</a></p>
-<p> 👯 Also let's code together on <a href="https://www.codewars.com/users/yeldynov%20/" target="_blank" rel="noopener noreferrer">Codewars</a></p>
+<p> 💼 Check out my <strong><a href="https://yeldynov.tech/" target="_blank" rel="noopener noreferrer">Portfolio</a></strong></p>
+<p> 👨‍ More Projects at <strong><a href="https://www.frontendmentor.io/profile/yeldynov/" target="_blank" rel="noopener noreferrer">Frontend Mentor</a></strong></p>
+<p> 👯 Also let's code together on <strong><a href="https://www.codewars.com/users/yeldynov%20/" target="_blank" rel="noopener noreferrer">Codewars</a></strong></p>
 <p> 📫 You can reach me directly at <strong> <a href="mailto:yeldynovn@gmail.com" target="_blank" rel="noopener noreferrer">yeldynovn@gmail.com</a></strong></p>
 
 
