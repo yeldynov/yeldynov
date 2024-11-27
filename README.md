@@ -14,7 +14,7 @@
   
 <br/>
 
-- 💼 Check out my [Portfolio](https://yeldynov.netlify.app/)
+- 💼 Check out my [Portfolio](https://yeldynov.tech/)
   
 - 👨‍ More Projects at [Frontend Mentor](https://www.frontendmentor.io/profile/yeldynov/)
 
