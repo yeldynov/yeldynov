@@ -8,7 +8,7 @@
 
 <p> 🧙‍♂️ I’m currently <strong>freelancing on <a href="https://www.upwork.com/freelancers/~01666af90b1c137ab9" target="_blank" rel="noopener noreferrer">Upwork</a></strong></p>
 <p> 👨‍💻 For Front-end I prefer <strong><a href="https://github.com/yeldynov" target="_blank" rel="noopener noreferrer">React / Next.js + Tailwind CSS</a></strong></p>
-<p> 🥷 For Back-end I prefer <strong><a href="https://github.com/yeldynov" target="_blank" rel="noopener noreferrer">Node Express + MongoDB</a></strong></p>
+<p> 🥷 For Back-end I prefer <strong><a href="https://github.com/yeldynov" target="_blank" rel="noopener noreferrer">Node Express + PostgreSQL</a></strong></p>
 <br/>
 <p> 💼 Check out my <strong><a href="https://yeldynov.tech/" target="_blank" rel="noopener noreferrer">Portfolio</a></strong></p>
 <p> 👨‍ More Projects at <strong><a href="https://www.frontendmentor.io/profile/yeldynov/" target="_blank" rel="noopener noreferrer">Frontend Mentor</a></strong></p>
