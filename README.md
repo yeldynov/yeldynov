@@ -3,7 +3,7 @@
 <h3 align="center">I am a Software Engineer from Kharkiv, Ukraine</h3> 
 <h3 align="center"> I am passionate about coding, open source, and the web platform. </h3>
 <h3 align="center">I like evolving as a developer and helping others.</h3>
-<h3 align="center">I tackle every challenge with enthusiasm and determination.</h3>
+<h3 align="center">I accept every challenge with enthusiasm and determination.</h3>
 <br/>
 
 <p> 🧙‍♂️ I’m currently <strong>freelancing on <a href="https://www.upwork.com/freelancers/~01666af90b1c137ab9" target="_blank" rel="noopener noreferrer">Upwork</a></strong></p>
