@@ -1,6 +1,6 @@
 ![Header](./gh_header_real.png)
 
-<h3 align="center">Fullstack Developer | HTML/CSS Wizard | React/Next.js Master | Tailwind CSS Enjoyer</h3> 
+<h3 align="center">Fullstack Developer | HTML / CSS Wizard | React / Next.js Master | Tailwind CSS Enjoyer</h3> 
 <h3 align="center">Hey, I am a Software Engineer from Kharkiv, Ukraine</h3> 
 <h3 align="center">With 4+ years of experience, I am passionate about coding, open source, and the web platform. </h3>
 <h3 align="center">I like evolving as a developer and helping others.</h3>
