@@ -1,6 +1,6 @@
 ![Header](./gh_header_real.png)
 
-<h2 align="center">Top Rated <a href="https://www.upwork.com/freelancers/~01666af90b1c137ab9" target="_blank" rel="noopener noreferrer">Upwork</a></strong> Freelancer</h2>
+<h2 align="center">Top Rated <a href="https://www.upwork.com/freelancers/~01666af90b1c137ab9" target="_blank" rel="noopener noreferrer">Upwork Freelancer</a></strong> </h2>
 <h3 align="center">Fullstack Developer | HTML/CSS Wizard | React/Next.js Master | Tailwind CSS Enjoyer</h2> 
 <h3 align="center">Hey, I am a Software Engineer from Kharkiv, Ukraine</h3> 
 <h3 align="center">With 4+ years of experience, I am passionate about coding, open source, and the web platform. </h3>
