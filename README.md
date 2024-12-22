@@ -6,7 +6,7 @@
 <h4>Hey, I’m a pro Web Developer specializing in building high-quality web apps.</h4> 
 <h4>Proficient in HTML, CSS, JavaScript, Tailwind CSS, Bootstrap, React/Next.js, MERN stack</h4>
 <h4>I deliver fast, pixel-perfect and fully responsive code tailored to your needs.</h4>
-<h4>Let's collaborate!</h4>
+
 <br/>
 
 <p> 🧙‍♂️ I’m currently <strong>freelancing on <a href="https://www.upwork.com/freelancers/~01666af90b1c137ab9" target="_blank" rel="noopener noreferrer">Upwork</a></strong></p>
@@ -17,7 +17,7 @@
 <p> 👨‍ More Projects at <strong><a href="https://www.frontendmentor.io/profile/yeldynov/" target="_blank" rel="noopener noreferrer">Frontend Mentor</a></strong></p>
 <p> 👯 Also let's code together on <strong><a href="https://www.codewars.com/users/yeldynov%20/" target="_blank" rel="noopener noreferrer">Codewars</a></strong></p>
 <p> 📫 You can reach me directly at <strong> <a href="mailto:yeldynovn@gmail.com" target="_blank" rel="noopener noreferrer">yeldynovn@gmail.com</a></strong></p>
-
+<h4>Let's collaborate!</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yeldynov&label=Profile%20views&color=0e75b6&style=flat" alt="yeldynov" /> </p>
 
