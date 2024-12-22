@@ -17,7 +17,7 @@
 <p> 👨‍ More Projects at <strong><a href="https://www.frontendmentor.io/profile/yeldynov/" target="_blank" rel="noopener noreferrer">Frontend Mentor</a></strong></p>
 <p> 👯 Also let's code together on <strong><a href="https://www.codewars.com/users/yeldynov%20/" target="_blank" rel="noopener noreferrer">Codewars</a></strong></p>
 <p> 📫 You can reach me directly at <strong> <a href="mailto:yeldynovn@gmail.com" target="_blank" rel="noopener noreferrer">yeldynovn@gmail.com</a></strong></p>
-<h4> <strong> Let's <a href="https://yeldynov.tech/contacts" target="_blank" rel="noopener noreferrer">Get in Touch!</a></strong></h4>
+<h4>🤝 <strong> Let's <a href="https://yeldynov.tech/contacts" target="_blank" rel="noopener noreferrer">Get in Touch!</a></strong></h4>
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yeldynov&label=Profile%20views&color=0e75b6&style=flat" alt="yeldynov" /> </p>
 
