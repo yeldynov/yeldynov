@@ -3,10 +3,10 @@
 <h2 align="center">Top Rated <a href="https://www.upwork.com/freelancers/~01666af90b1c137ab9" target="_blank" rel="noopener noreferrer">Upwork Freelancer</a></strong> </h2>
 <h3 align="center">Fullstack Developer | HTML/CSS Wizard | React/Next.js Master | Tailwind CSS Enjoyer</h2> 
 <br>
-<h4>Hey, I’m a pro Web Developer specializing in building high-quality web apps.</h4> 
-<h4>Proficient in HTML, CSS, JavaScript, Tailwind CSS, Bootstrap, React/Next.js, MERN stack</h4>
-<h4>I deliver fast, pixel-perfect and fully responsive code tailored to your needs.</h4>
-<h4>Let's collaborate!</h4>
+<h3>Hey, I’m a pro Web Developer specializing in building high-quality web apps.</h3> 
+<h3>Proficient in HTML, CSS, JavaScript, Tailwind CSS, Bootstrap, React/Next.js, MERN stack</h3>
+<h3>I deliver fast, pixel-perfect and fully responsive code tailored to your needs.</h3>
+<h3>Let's collaborate!</h3>
 <br/>
 
 <p> 🧙‍♂️ I’m currently <strong>freelancing on <a href="https://www.upwork.com/freelancers/~01666af90b1c137ab9" target="_blank" rel="noopener noreferrer">Upwork</a></strong></p>
