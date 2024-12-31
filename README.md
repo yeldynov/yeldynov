@@ -5,7 +5,7 @@
 <br>
 <h4>Hey, I am a professional Web Developer specializing in building high-quality Web Apps and Landing Pages.</h4> 
 <h4>Proficient in HTML, CSS, JavaScript, Tailwind CSS, Bootstrap, React/Next.js, MERN stack</h4>
-<h4>I deliver fast, pixel-perfect and fully responsive code tailored to your needs.</h4>
+<h4>You'll receive <b>fast, pixel-perfect and fully responsive</b> work.</h4>
 
 <br/>
 
