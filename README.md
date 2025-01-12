@@ -19,7 +19,7 @@
 <p> 📫 You can reach me directly at <strong> <a href="mailto:yeldynovn@gmail.com" target="_blank" rel="noopener noreferrer">yeldynovn@gmail.com</a></strong></p>
 <h4>🤝 <strong> Let's <a href="https://yeldynov.tech/contacts" target="_blank" rel="noopener noreferrer">Get in Touch!</a></strong></h4>
 <br/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yeldynov&label=Profile%20views&color=0e75b6&style=flat" alt="yeldynov" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=yeldynov&label=Profile%20views&color=0e75b6&style=flat" alt="yeldynov" /> </p> -->
 
 <h3 align="left">Languages and Tools:</h3>
 
