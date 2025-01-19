@@ -28,7 +28,6 @@
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=yeldynov&label=Profile%20views&color=0e75b6&style=flat" alt="yeldynov" /> </p>
  <br/>
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yeldynov&&show_icons=true&theme=one_dark_pro&locale=en&layout=compact" alt="yeldynov" /></p> 
-[![GitHub Streak](https://streak-stats.demolab.com?user=DenverCoder1)](https://git.io/streak-stats)
 
  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=yeldynov&theme=one_dark_pro&card_height=160" alt="GitHub Streak" /></a>
 
