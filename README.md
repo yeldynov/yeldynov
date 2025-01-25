@@ -29,7 +29,7 @@
  <br/>
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yeldynov&&show_icons=true&theme=one_dark_pro&locale=en&layout=compact" alt="yeldynov" /></p> 
 
- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=yeldynov&theme=one_dark_pro&card_height=160" alt="GitHub Streak" /></a>
+ <!--  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=yeldynov&theme=one_dark_pro&card_height=160" alt="GitHub Streak" /></a>  -->
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yeldynov&" alt="yeldynov" /></p> -->
 
