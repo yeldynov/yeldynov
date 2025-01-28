@@ -32,7 +32,7 @@
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31bfl3erxlqc7aijuqtq4yhs6hle)
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31bfl3erxlqc7aijuqtq4yhs6hle&count={3}&width={00}&unique={true})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31bfl3erxlqc7aijuqtq4yhs6hle&count={3}&width={300}&unique={true})
 
 
  <!--  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=yeldynov&theme=one_dark_pro&card_height=160" alt="GitHub Streak" /></a>  -->
