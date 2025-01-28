@@ -29,8 +29,9 @@
  <br/>
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yeldynov&&show_icons=true&theme=one_dark_pro&locale=en&layout=compact" alt="yeldynov" /></p> 
 
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=yeldynov&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
-
+<a href = "https://github.com/madushadhanushka/simple-sqlite/graphs/contributors">
+  <img src = "https://contrib.rocks/image?repo=yeldynov/simple-sqlite"/>
+</a>
 
  <!--  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=yeldynov&theme=one_dark_pro&card_height=160" alt="GitHub Streak" /></a>  -->
 
