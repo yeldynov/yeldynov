@@ -27,12 +27,12 @@
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=yeldynov&label=Profile%20views&color=0e75b6&style=flat" alt="yeldynov" /> </p>
  <br/>
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31bfl3erxlqc7aijuqtq4yhs6hle)
+ 
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yeldynov&&show_icons=true&theme=one_dark_pro&locale=en&layout=compact" alt="yeldynov" /></p> 
 
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31bfl3erxlqc7aijuqtq4yhs6hle)
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31bfl3erxlqc7aijuqtq4yhs6hle&count={3}&width={300}&unique={true})
 
 
  <!--  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=yeldynov&theme=one_dark_pro&card_height=160" alt="GitHub Streak" /></a>  -->
