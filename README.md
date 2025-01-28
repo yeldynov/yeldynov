@@ -29,7 +29,7 @@
  <br/>
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yeldynov&&show_icons=true&theme=one_dark_pro&locale=en&layout=compact" alt="yeldynov" /></p> 
 
-<a href = "https://github.com/madushadhanushka/simple-sqlite/graphs/contributors">
+<a href = "https://github.com/yeldynov/simple-sqlite/graphs/contributors">
   <img src = "https://contrib.rocks/image?repo=yeldynov/simple-sqlite"/>
 </a>
 
