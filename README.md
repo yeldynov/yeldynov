@@ -31,7 +31,10 @@
 
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31bfl3erxlqc7aijuqtq4yhs6hle)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31bfl3erxlqc7aijuqtq4yhs6hle&count={count})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31bfl3erxlqc7aijuqtq4yhs6hle&width={width})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31bfl3erxlqc7aijuqtq4yhs6hle&unique={true|1|on|yes})
 
 
  <!--  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=yeldynov&theme=one_dark_pro&card_height=160" alt="GitHub Streak" /></a>  -->
