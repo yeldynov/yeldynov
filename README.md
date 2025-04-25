@@ -1,4 +1,4 @@
-![Header](./gh-oct.png)
+![Header](./gh-apr.png)
 
 <h2 align="center"><a href="https://www.upwork.com/freelancers/~01666af90b1c137ab9" target="_blank" rel="noopener noreferrer">🏆 Top Rated Freelancer</a></strong> </h2>
 <!-- <h3 align="center">Fullstack Developer, HTML/CSS Wizard, React/Next.js Master, Tailwind CSS Enjoyer</h3> 
