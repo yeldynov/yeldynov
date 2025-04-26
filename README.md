@@ -21,11 +21,13 @@
 <br/>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=yeldynov&label=Profile%20views&color=0e75b6&style=flat" alt="yeldynov" /> </p> -->
 
+<!-- COUNTER -->
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=yeldynov&label=Profile%20views&color=0e75b6&style=flat" alt="yeldynov" /> </p>
+
 <h3 align="left">Languages and Tools:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=figma,xd,css,html,js,ts,sass,less,tailwind,bootstrap,materialui,alpinejs,react,redux,nextjs,gatsby,threejs,unity,postman,regex,bots,nodejs,express,php,mongodb,mysql,postgres,sqlite,prisma,docker,linux,git,md,vercel,netlify,appwrite,azure,vite,yarn,npm,ps)](https://github.com/yeldynov)
 
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=yeldynov&label=Profile%20views&color=0e75b6&style=flat" alt="yeldynov" /> </p>
 
  <!--  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31bfl3erxlqc7aijuqtq4yhs6hle) -->
  
