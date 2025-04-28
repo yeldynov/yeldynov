@@ -1,6 +1,6 @@
 ![Header](./gh-apr.png)
-
-<h2 align="left"><a href="https://www.upwork.com/freelancers/~01666af90b1c137ab9" target="_blank" rel="noopener noreferrer">🏆 Top Rated Freelancer</a></strong> </h2>
+<br />
+<h2 align="center"><a href="https://www.upwork.com/freelancers/~01666af90b1c137ab9" target="_blank" rel="noopener noreferrer">🏆 Top Rated Freelancer</a></strong> </h2>
 <!-- <h3 align="center">Fullstack Developer, HTML/CSS Wizard, React/Next.js Master, Tailwind CSS Enjoyer</h3> 
 <br> -->
 <h4>Hey, I am a professional Developer specializing in building high-quality Web Apps and Landing Pages.</h4> 
