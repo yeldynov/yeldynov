@@ -3,7 +3,7 @@
 <h2 align="center"><a href="https://www.upwork.com/freelancers/~01666af90b1c137ab9" target="_blank" rel="noopener noreferrer">🏆 Top Rated Freelancer</a></strong> </h2>
 <!-- <h3 align="center">Fullstack Developer, HTML/CSS Wizard, React/Next.js Master, Tailwind CSS Enjoyer</h3> 
 <br> -->
-<h4>Modern web and app developer: building strong, beautiful solutions.</h4> 
+<h4>Modern web and app developer crafting elegant, powerful solutions.</h4> 
 <h4>Proficient in HTML, CSS, JavaScript, Tailwind CSS (shadcn/ui), Bootstrap, React/Next.js, MERN stack, and more.</h4>
 <h4>You'll receive <b>fast, pixel-perfect and fully responsive</b> work.</h4>
 
