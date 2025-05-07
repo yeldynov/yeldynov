@@ -1,4 +1,4 @@
-<h1 align=""><a href="https://www.upwork.com/freelancers/~01666af90b1c137ab9" target="_blank" rel="noopener noreferrer">🤗👋 Hi, I'm Nikita</a></strong> </h1>
+<h1 align="center"><a href="https://www.upwork.com/freelancers/~01666af90b1c137ab9" target="_blank" rel="noopener noreferrer">👋 Hey, I'm Nikita</a></strong> </h1>
 
 ![Header](./gh-apr.png)
 <br />
