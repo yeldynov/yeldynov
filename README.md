@@ -5,10 +5,9 @@
 ![Header](./gh-apr.png)
 <p align="center">
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi,+I'm+Nikita+Yeldynov!;Front-End+Developer+with+4+Years+Experience;Passionate+about+UI/UX+and+Animations;Freelancing+on+Upwork+💼;Loves+Figma,+Tailwind+%26+React;Daily+Commits+Keep+Me+Motivated;Let's+Build+Something+Great+Together!+🚀">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi,+I'm+Nikita+Yeldynov!;Front-End+Developer;Passionate+about+UI/UX;Freelancing+on+Upwork+💼;Loves+Figma,+Tailwind+%26+React;Daily+Commits+Keep+Me+Motivated;Let's+Build+Something+Great+Together!+🚀">
 </a>
 </p>
-<br />
 
 <!-- <h3 align="center">Fullstack Developer, HTML/CSS Wizard, React/Next.js Master, Tailwind CSS Enjoyer</h3> 
 <br> -->
