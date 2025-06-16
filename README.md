@@ -9,24 +9,53 @@
 </a>
 </p>
 
-<!-- <h3 align="center">Fullstack Developer, HTML/CSS Wizard, React/Next.js Master, Tailwind CSS Enjoyer</h3> 
-<br> -->
-<h4>Modern Fullstack Developer crafting elegant, powerful solutions.</h4> 
-<h4>Proficient in HTML, CSS, JavaScript, Tailwind CSS (shadcn/ui), Bootstrap, React/Next.js, MERN stack, and more.</h4>
-<h4>You'll receive <b>fast, pixel-perfect and fully responsive</b> work.</h4>
+**Modern Fullstack Developer** crafting elegant, fast, and scalable solutions.
 
-<br/>
+---
 
-<p> 🧙‍♂️ I’m currently <strong>freelancing on <a href="https://www.upwork.com/freelancers/~01666af90b1c137ab9" target="_blank" rel="noopener noreferrer">Upwork</a></strong></p>
-<p> 👨‍💻 For Front-end I prefer <strong><a href="https://github.com/yeldynov" target="_blank" rel="noopener noreferrer">React / Next.js + Tailwind CSS</a></strong></p>
-<p> 🥷 For Back-end I prefer <strong><a href="https://github.com/yeldynov" target="_blank" rel="noopener noreferrer">Node Express + PostgreSQL</a></strong></p>
-<br/>
-<p> 💼 Check out my <strong><a href="https://yeldynov.tech/" target="_blank" rel="noopener noreferrer">Portfolio Website</a></strong></p>
-<p> 👨‍ More Projects at <strong><a href="https://www.frontendmentor.io/profile/yeldynov/" target="_blank" rel="noopener noreferrer">Frontend Mentor</a></strong></p>
-<p> 👯 Also let's code together on <strong><a href="https://www.codewars.com/users/yeldynov%20/" target="_blank" rel="noopener noreferrer">Codewars</a></strong></p>
-<p> 📫 You can reach me directly at <strong> <a href="mailto:yeldynovn@gmail.com" target="_blank" rel="noopener noreferrer">yeldynovn@gmail.com</a></strong></p>
-<h4>🤝 <strong> Let's <a href="https://yeldynov.tech/contacts" target="_blank" rel="noopener noreferrer">Get in Touch!</a></strong></h4>
-<br/>
+### 🛠️ What I Do
+
+- Front-end: **React / Next.js + Tailwind CSS (shadcn/ui)**  
+- Back-end: **Node.js + Express + PostgreSQL / MongoDB**  
+- Strong with: **HTML**, **CSS**, **JavaScript**, **Bootstrap**, **MERN stack**, and more  
+- Every project is **fast, pixel-perfect, and fully responsive**
+
+---
+
+### 💼 Freelancing & Open to New Opportunities
+
+I'm currently freelancing on [Upwork](https://www.upwork.com/freelancers/~01666af90b1c137ab9), where I help clients build user-friendly, high-performance interfaces with clean code and great UX.
+
+I'm always open to:
+- Freelance & contract work  
+- Long-term collaborations  
+- Building digital products that make a difference  
+
+---
+
+### 🌱 How I Work
+
+- 4+ years of experience  
+- Detail-oriented & communication-focused  
+- Daily commits → daily growth  
+- Short, focused sprints with lo-fi in the background 🎧
+
+---
+
+### 📌 Links
+
+- 💼 [Portfolio Website](https://yeldynov.tech/)
+- 👨‍💻 [GitHub](https://github.com/yeldynov)
+- 🧪 [Frontend Mentor Projects](https://www.frontendmentor.io/profile/yeldynov)
+- 🧠 [Codewars Profile](https://www.codewars.com/users/yeldynov%20/)
+- 📫 Contact: [yeldynovn@gmail.com](mailto:yeldynovn@gmail.com)
+- 🤝 [Let’s Get in Touch](https://yeldynov.tech/contacts)
+
+---
+
+Thanks for stopping by — let’s build something great together!
+
+
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=yeldynov&label=Profile%20views&color=0e75b6&style=flat" alt="yeldynov" /> </p> -->
 
 
