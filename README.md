@@ -2,7 +2,7 @@
 <h1 align="center"><b>Hi , I'm Nikita Yeldynov </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 -->
 
-![Header](./gh-apr.png)
+![Header](./git-banner-jun.png)
 <p align="center">
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi,+I'm+Nikita+Yeldynov!;Front-End+Developer;Passionate+about+UI/UX;Freelancing+on+Upwork+💼;Loves+Figma,+Tailwind+%26+React;Daily+Commits+Keep+Me+Motivated;Let's+Build+Something+Great+Together!+🚀">
