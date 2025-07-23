@@ -13,7 +13,6 @@
 
 ## Modern Fullstack Developer** crafting elegant, fast, and scalable solutions.
 
----
 
 ### 🛠️ What I Do
 
