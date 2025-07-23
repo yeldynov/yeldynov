@@ -3,11 +3,13 @@
 -->
 
 ![Header](./gh-apr.png)
+<!-- 
 <p align="center">
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi,+I'm+Nikita+Yeldynov!;Front-End+Developer;Passionate+about+UI/UX;Freelancing+on+Upwork+💼;Loves+Figma,+Tailwind+%26+React;Daily+Commits+Keep+Me+Motivated;Let's+Build+Something+Great+Together!+🚀">
 </a>
 </p>
+-->
 
 **Modern Fullstack Developer** crafting elegant, fast, and scalable solutions.
 
