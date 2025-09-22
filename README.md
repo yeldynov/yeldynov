@@ -36,7 +36,7 @@ I'm always open to:
 
 ### 🌱 How I Work
 
-- 4+ years of experience  
+- 5+ years of experience  
 - Detail-oriented & communication-focused  
 - Daily commits → daily growth  
 - Short, focused sprints with lo-fi in the background 🎧
