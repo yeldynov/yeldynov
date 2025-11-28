@@ -45,12 +45,12 @@ I'm always open to:
 
 ### 📌 Links
 
-- 💼 [Portfolio Website](https://yeldynov.tech/)
+<!-- - 💼 [Portfolio Website](https://yeldynov.tech/) -->
 - 👨‍💻 [GitHub](https://github.com/yeldynov)
 - 🧪 [Frontend Mentor Projects](https://www.frontendmentor.io/profile/yeldynov)
 - 🧠 [Codewars Profile](https://www.codewars.com/users/yeldynov%20/)
 - 📫 Contact: [yeldynovn@gmail.com](mailto:yeldynovn@gmail.com)
-- 🤝 [Let’s Get in Touch](https://yeldynov.tech/contacts)
+<!-- - 🤝 [Let’s Get in Touch](https://yeldynov.tech/contacts) -->
 
 ---
 
