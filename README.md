@@ -11,7 +11,7 @@
 </p>
 -->
 
-## **Modern Fullstack Developer** crafting elegant, fast, and scalable solutions.
+## **Modern Developer** crafting elegant, fast, and scalable solutions.
 
 
 ### 🛠️ What I Do
