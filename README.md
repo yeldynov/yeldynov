@@ -23,7 +23,7 @@
 
 ---
 
-### 💼 Freelancing & Open to New Opportunities
+### 💼 Freelancing & Work
 
 I'm currently freelancing on [Upwork](https://www.upwork.com/freelancers/~01666af90b1c137ab9), where I help clients build user-friendly, high-performance interfaces with clean code and great UX.
 
