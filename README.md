@@ -11,7 +11,7 @@
 </p>
 -->
 
-## **Modern Developer** crafting elegant, fast, and scalable solutions.
+## **Modern Developer** Bringing Designs to Life.
 
 
 ### 🛠️ What I Do
