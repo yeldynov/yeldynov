@@ -11,7 +11,7 @@
 </p>
 -->
 
-## **Modern Developer** Bringing Designs to Life.
+## **Modern Web/Mobile Developer** Bringing Designs to Life.
 
 
 ### 🛠️ What I Do
