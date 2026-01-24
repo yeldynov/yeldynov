@@ -1,81 +1,59 @@
-<!-- <h1 align="center"><a href="https://www.upwork.com/freelancers/~01666af90b1c137ab9" target="_blank" rel="noopener noreferrer"> Hey, I'm Nikita</a></strong> </h1> 
-<h1 align="center"><b>Hi , I'm Nikita Yeldynov </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
--->
-
 ![Header](./gh-banner-dec.png)
-<!-- 
+
+<h1 align="center">Hi, I'm Nikita 👋</h1>
+<h3 align="center">I turn complex designs into pixel-perfect, high-performance websites.</h3>
+
 <p align="center">
-<a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi,+I'm+Nikita+Yeldynov!;Front-End+Developer;Passionate+about+UI/UX;Freelancing+on+Upwork+💼;Loves+Figma,+Tailwind+%26+React;Daily+Commits+Keep+Me+Motivated;Let's+Build+Something+Great+Together!+🚀">
-</a>
+  <b>Frontend Developer | Next.js, React & Modern UI Specialist</b><br>
+  I don't just write code; I partner with you to turn your ideas into software that feels clear, responsive, and robust.
+  <br>
+  <br>
+  <a href="https://www.upwork.com/freelancers/~01666af90b1c137ab9">
+    <img src="https://img.shields.io/badge/Hire%20Me-Upwork-14a800?style=for-the-badge&logo=upwork" alt="Hire Me on Upwork">
+  </a>
+  <a href="mailto:yeldynovn@gmail.com">
+    <img src="https://img.shields.io/badge/Contact-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Me">
+  </a>
 </p>
--->
-
-## **Modern Web/Mobile Developer** Bringing Designs to Life.
-
-
-### 🛠️ What I Do
-
-- Front-end: **React / Next.js + Tailwind CSS (shadcn/ui)**  
-- Back-end: **Node.js + Express + PostgreSQL / MongoDB**  
-- Strong with: **HTML**, **CSS**, **JavaScript**, **Bootstrap**, **MERN stack**, and more  
-- Every project is **fast, pixel-perfect, and fully responsive**
 
 ---
 
-### 💼 Freelancing & Work
+### 🚀 What I Bring to the Table
 
-I'm currently freelancing on [Upwork](https://www.upwork.com/freelancers/~01666af90b1c137ab9), where I help clients build user-friendly, high-performance interfaces with clean code and great UX.
+I specialize in building accessible, lightning-fast applications with a focus on polished UI/UX.
 
-I'm always open to:
-- Freelance & contract work  
-- Long-term collaborations  
-- Building digital products that make a difference  
-
----
-
-### 🌱 How I Work
-
-- 5+ years of experience  
-- Detail-oriented & communication-focused  
-- Daily commits → daily growth  
-- Short, focused sprints with lo-fi in the background 🎧
+- **Pixel-Perfect Frontend:** Expert at translating Figma, Adobe XD, and Sketch designs into fully responsive code using **React, Next.js, and TypeScript**.
+- **Modern Styling:** Mastery of **Tailwind CSS, SCSS, Framer Motion**, and component libraries like shadcn/ui.
+- **Full-Stack Capable:** Comfortable building robust backends with **Node.js, Express, Python, and PHP**.
+- **Data & APIs:** Experience managing **PostgreSQL, MongoDB, Firebase, and Supabase**.
+- **Performance First:** I prioritize Core Web Vitals, SEO, and accessibility in every project.
 
 ---
 
-### 📌 Links
+### 💼 Freelancing & Collaboration
 
-<!-- - 💼 [Portfolio Website](https://yeldynov.tech/) -->
-- 👨‍💻 [GitHub](https://github.com/yeldynov)
-- 🧪 [Frontend Mentor Projects](https://www.frontendmentor.io/profile/yeldynov)
-- 🧠 [Codewars Profile](https://www.codewars.com/users/yeldynov%20/)
-- 📫 Contact: [yeldynovn@gmail.com](mailto:yeldynovn@gmail.com)
-<!-- - 🤝 [Let’s Get in Touch](https://yeldynov.tech/contacts) -->
+I have **6+ years of experience** delivering production-ready applications for startups and businesses.
+
+- 🌍 Top Rated Freelancer on [**Upwork**](https://www.upwork.com/freelancers/~01666af90b1c137ab9)
+- 🤝 Open to contract work and long-term collaborations
+- 💬 Agile/Scrum experienced (Jira, Linear, Slack, Git)
+
+**Have a project idea?** [Let's chat!](mailto:yeldynovn@gmail.com)
 
 ---
 
-Thanks for stopping by — let’s build something great together!
+### 🛠️ Languages & Tools
 
+[![My Skills](https://skillicons.dev/icons?i=ts,js,react,nextjs,vite,tailwind,sass,bootstrap,materialui,threejs,nodejs,express,python,php,mongodb,mysql,postgres,firebase,supabase,prisma,docker,git,linux,figma,xd,postman,vercel,netlify)](https://github.com/yeldynov)
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=yeldynov&label=Profile%20views&color=0e75b6&style=flat" alt="yeldynov" /> </p> -->
+---
 
+### 📌 Connect with Me
 
+- 💼 [Upwork Profile](https://www.upwork.com/freelancers/~01666af90b1c137ab9)
+- 👨‍💻 [GitHub Projects](https://github.com/yeldynov)
+- 🧪 [Frontend Mentor](https://www.frontendmentor.io/profile/yeldynov)
+- 🧠 [Codewars](https://www.codewars.com/users/yeldynov%20/)
 
-<h3 align="left">Languages and Tools:</h3>
-
-[![My Skills](https://skillicons.dev/icons?i=figma,xd,css,html,js,ts,sass,less,tailwind,bootstrap,materialui,alpinejs,react,redux,nextjs,gatsby,threejs,unity,postman,regex,bots,nodejs,express,php,mongodb,mysql,postgres,sqlite,prisma,docker,linux,git,md,vercel,netlify,appwrite,azure,vite,yarn,npm,ps)](https://github.com/yeldynov)
-
-<!-- COUNTER -->
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=yeldynov&label=Profile%20views&color=0e75b6&style=flat" alt="yeldynov" /> </p>
- <!--  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31bfl3erxlqc7aijuqtq4yhs6hle) -->
- 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yeldynov&&show_icons=true&theme=one_dark_pro&locale=en&layout=compact" alt="yeldynov" /></p> -->
-
-
- <!--  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=yeldynov&theme=one_dark_pro&card_height=160" alt="GitHub Streak" /></a>  -->
-
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yeldynov&" alt="yeldynov" /></p> -->
-
-<!--[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yeldynov&theme=react-dark&height=300)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
-
-
+<br/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yeldynov&label=Profile%20views&color=0e75b6&style=flat" alt="yeldynov" /> </p>
