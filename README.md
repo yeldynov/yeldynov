@@ -1,13 +1,12 @@
-![Header](./gh-banner-dec.png)
+![Header](./gh-apr-26.png)
 
 <h1 align="center">Hi, I'm Nikita 👋</h1>
-<h3 align="center">I turn complex designs into pixel-perfect, high-performance websites.</h3>
+<h3 align="center">I build complete, high-performance web products — from UI to database to AI integrations.</h3>
 
 <p align="center">
-  <b>Frontend Developer | Next.js, React & Modern UI Specialist</b><br>
-  I don't just write code; I partner with you to turn your ideas into software that feels clear, responsive, and robust.
-  <br>
-  <br>
+  <b>Full-Stack Developer | Next.js, React, Node.js & AI Integrations</b><br>
+  I don’t just write code; I design and build systems that are fast, scalable, and feel great to use.
+  <br><br>
   <a href="https://www.upwork.com/freelancers/~01666af90b1c137ab9">
     <img src="https://img.shields.io/badge/Hire%20Me-Upwork-14a800?style=for-the-badge&logo=upwork" alt="Hire Me on Upwork">
   </a>
@@ -20,13 +19,14 @@
 
 ### 🚀 What I Bring to the Table
 
-I specialize in building accessible, lightning-fast applications with a focus on polished UI/UX.
+I specialize in building modern web applications that combine polished UI, solid backend architecture, and AI-powered features.
 
-- **Pixel-Perfect Frontend:** Expert at translating Figma, Adobe XD, and Sketch designs into fully responsive code using **React, Next.js, and TypeScript**.
-- **Modern Styling:** Mastery of **Tailwind CSS, SCSS, Framer Motion**, and component libraries like shadcn/ui.
-- **Full-Stack Capable:** Comfortable building robust backends with **Node.js, Express, Python, and PHP**.
-- **Data & APIs:** Experience managing **PostgreSQL, MongoDB, Firebase, and Supabase**.
-- **Performance First:** I prioritize Core Web Vitals, SEO, and accessibility in every project.
+- **Pixel-Perfect Frontend:** Turning Figma, Adobe XD, and Sketch designs into responsive interfaces using **React, Next.js, and TypeScript**.
+- **Full-Stack Ownership:** APIs, authentication, admin panels, integrations, and backend logic with **Node.js, Express, Python, and PHP**.
+- **AI Integrations:** Chatbots, content generation, smart search, automation, and custom AI workflows using modern AI APIs.
+- **Data & Architecture:** Experience with **PostgreSQL, MongoDB, Firebase, Supabase**, and clean database design.
+- **Modern UI & Motion:** **Tailwind CSS, SCSS, Framer Motion, shadcn/ui** for premium UI/UX.
+- **Performance First:** Core Web Vitals, SEO, accessibility, and scalability are always priorities.
 
 ---
 
@@ -36,9 +36,9 @@ I have **6+ years of experience** delivering production-ready applications for s
 
 - 🌍 Top Rated Freelancer on [**Upwork**](https://www.upwork.com/freelancers/~01666af90b1c137ab9)
 - 🤝 Open to contract work and long-term collaborations
-- 💬 Agile/Scrum experienced (Jira, Linear, Slack, Git)
+- 💬 Agile/Scrum workflow (Jira, Linear, Slack, Git, Docker)
 
-**Have a project idea?** [Let's chat!](mailto:yeldynovn@gmail.com)
+**Have a project idea?** [Let’s chat!](mailto:yeldynovn@gmail.com)
 
 ---
 
