@@ -1,7 +1,7 @@
 ![Header](./gh-apr-26.png)
 
 <h1 align="center">Hi, I'm Nikita 👋</h1>
-<h3 align="center">I build complete, high-performance web products — from UI to database to AI integrations.</h3>
+<h3 align="center">I build high-quality web products — from UI to database to AI integrations.</h3>
 
 <p align="center">
   <b>Full-Stack Developer | Next.js, React, Node.js & AI Integrations</b><br>
