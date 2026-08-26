@@ -1,4 +1,4 @@
-![Header](./gh-apr-26.png)
+<!-- ![Header](./gh-apr-26.png) -->
 
 <h1 align="center">Hi, I'm Nikita 👋</h1>
 <h3 align="center">I build high-quality web products — from UI to database to AI integrations.</h3>
@@ -17,9 +17,7 @@
 
 ---
 
-### 🚀 What I Bring to the Table
-
-I specialize in building modern web applications that combine polished UI, solid backend architecture, and AI-powered features.
+### 🚀 I specialize in building modern web applications that combine polished UI, solid backend architecture, and AI-powered features.
 
 - **Pixel-Perfect Frontend:** Turning Figma, Adobe XD, and Sketch designs into responsive interfaces using **React, Next.js, and TypeScript**.
 - **Full-Stack Ownership:** APIs, authentication, admin panels, integrations, and backend logic with **Node.js, Express, Python, and PHP**.
