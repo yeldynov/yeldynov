@@ -13,10 +13,18 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Top%20Rated-Upwork-14a800?style=flat-square" />
-  <img src="https://img.shields.io/badge/Job%20Success-100%25-14a800?style=flat-square" />
-  <img src="https://img.shields.io/badge/Experience-6%2B%20years-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Available-30%2B%20hrs%2Fweek-informational?style=flat-square" />
+  <a href="https://www.upwork.com/freelancers/~01666af90b1c137ab9">
+    <img src="https://img.shields.io/badge/Top%20Rated-Upwork-14a800?style=flat-square" />
+  </a>
+  <a href="https://www.upwork.com/freelancers/~01666af90b1c137ab9">
+    <img src="https://img.shields.io/badge/Job%20Success-100%25-14a800?style=flat-square" />
+  </a>
+  <a href="https://www.upwork.com/freelancers/~01666af90b1c137ab9">
+    <img src="https://img.shields.io/badge/Experience-6%2B%20years-blue?style=flat-square" />
+  </a>
+  <a href="https://www.upwork.com/freelancers/~01666af90b1c137ab9">
+    <img src="https://img.shields.io/badge/Available-30%2B%20hrs%2Fweek-informational?style=flat-square" />
+  </a>
 </p>
 
 ---
