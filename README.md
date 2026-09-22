@@ -1,11 +1,9 @@
-<!-- ![Header](./gh-apr-26.png) -->
-
 <h1 align="center">Hi, I'm Nikita 👋</h1>
-<h3 align="center">I build high-quality web products — from UI to database to AI integrations.</h3>
+<h3 align="center">Full-Stack Developer — I build clean, scalable web products, and fix the ones that broke.</h3>
 
 <p align="center">
-  <b>Full-Stack Developer | Next.js, React, Node.js & AI Integrations</b><br>
-  I don’t just write code; I design and build systems that are fast, scalable, and feel great to use.
+  <b>Next.js, React, Node.js & TypeScript | 6+ years of experience</b><br>
+  From pixel-perfect frontends to full-stack systems — and if your AI-generated app turned into a mess, I'm the one who untangles it.
   <br><br>
   <a href="https://www.upwork.com/freelancers/~01666af90b1c137ab9">
     <img src="https://img.shields.io/badge/Hire%20Me-Upwork-14a800?style=for-the-badge&logo=upwork" alt="Hire Me on Upwork">
@@ -17,12 +15,13 @@
 
 ---
 
-### 🚀 I specialize in building modern web applications that combine polished UI, solid backend architecture, and AI-powered features.
+### 🚀 What I do
 
-- **Pixel-Perfect Frontend:** Turning Figma, Adobe XD, and Sketch designs into responsive interfaces using **React, Next.js, and TypeScript**.
+- **Pixel-Perfect Frontend:** Turning Figma, Adobe XD, and Sketch designs into responsive interfaces with **React, Next.js, and TypeScript**.
 - **Full-Stack Ownership:** APIs, authentication, admin panels, integrations, and backend logic with **Node.js, Express, Python, and PHP**.
-- **AI Integrations:** Chatbots, content generation, smart search, automation, and custom AI workflows using modern AI APIs.
-- **Data & Architecture:** Experience with **PostgreSQL, MongoDB, Firebase, Supabase**, and clean database design.
+- **AI Code Rescue:** Taking over broken AI-generated projects — messy state, tangled styling, wonky APIs — and turning them into stable, production-ready code, regardless of what tool built them.
+- **AI-Powered Features:** Integrating OpenAI and Anthropic APIs into real products when a project calls for it.
+- **Data & Architecture:** **PostgreSQL, MongoDB, Firebase, Supabase**, and clean database design.
 - **Modern UI & Motion:** **Tailwind CSS, SCSS, Framer Motion, shadcn/ui** for premium UI/UX.
 - **Performance First:** Core Web Vitals, SEO, accessibility, and scalability are always priorities.
 
@@ -30,13 +29,13 @@
 
 ### 💼 Freelancing & Collaboration
 
-I have **6+ years of experience** delivering production-ready applications for startups and businesses.
+**6+ years of experience** delivering production-ready applications for startups and businesses.
 
-- 🌍 Top Rated Freelancer on [**Upwork**](https://www.upwork.com/freelancers/~01666af90b1c137ab9)
+- 🌍 Top Rated Freelancer on [**Upwork**](https://www.upwork.com/freelancers/~01666af90b1c137ab9) — 100% Job Success
 - 🤝 Open to contract work and long-term collaborations
 - 💬 Agile/Scrum workflow (Jira, Linear, Slack, Git, Docker)
 
-**Have a project idea?** [Let’s chat!](mailto:yeldynovn@gmail.com)
+**Have a project idea — or a broken one?** [Let's chat!](mailto:yeldynovn@gmail.com)
 
 ---
 
