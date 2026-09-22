@@ -2,8 +2,7 @@
 <h3 align="center">Full-Stack Developer — I build clean, scalable web products, and fix the ones that broke.</h3>
 
 <p align="center">
-  <b>Next.js, React, Node.js & TypeScript | 6+ years of experience</b><br>
-  From pixel-perfect frontends to full-stack systems — and if your AI-generated app turned into a mess, I'm the one who untangles it.
+  <b>Next.js · React · Node.js · TypeScript</b> — 6+ years shipping production-ready apps for startups and businesses.
   <br><br>
   <a href="https://www.upwork.com/freelancers/~01666af90b1c137ab9">
     <img src="https://img.shields.io/badge/Hire%20Me-Upwork-14a800?style=for-the-badge&logo=upwork" alt="Hire Me on Upwork">
@@ -13,25 +12,49 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Top%20Rated-Upwork-14a800?style=flat-square" />
+  <img src="https://img.shields.io/badge/Job%20Success-100%25-14a800?style=flat-square" />
+  <img src="https://img.shields.io/badge/Experience-6%2B%20years-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Available-30%2B%20hrs%2Fweek-informational?style=flat-square" />
+</p>
+
 ---
 
 ### 🚀 What I do
 
-- **Pixel-Perfect Frontend:** Turning Figma, Adobe XD, and Sketch designs into responsive interfaces with **React, Next.js, and TypeScript**.
-- **Full-Stack Ownership:** APIs, authentication, admin panels, integrations, and backend logic with **Node.js, Express, Python, and PHP**.
-- **AI Code Rescue:** Taking over broken AI-generated projects — messy state, tangled styling, wonky APIs — and turning them into stable, production-ready code, regardless of what tool built them.
-- **AI-Powered Features:** Integrating OpenAI and Anthropic APIs into real products when a project calls for it.
-- **Data & Architecture:** **PostgreSQL, MongoDB, Firebase, Supabase**, and clean database design.
-- **Modern UI & Motion:** **Tailwind CSS, SCSS, Framer Motion, shadcn/ui** for premium UI/UX.
-- **Performance First:** Core Web Vitals, SEO, accessibility, and scalability are always priorities.
+- **Pixel-Perfect Frontend** — turning Figma, Adobe XD, and Sketch designs into responsive interfaces with **React, Next.js, and TypeScript**
+- **Full-Stack Ownership** — APIs, authentication, admin panels, integrations, and backend logic with **Node.js, Express, Python, and PHP**
+- **AI Code Rescue** — taking over broken AI-generated projects — messy state, tangled styling, wonky APIs — and turning them into stable, production-ready code, regardless of what tool built them
+- **AI-Powered Features** — integrating OpenAI and Anthropic APIs into real products when a project calls for it
+- **Data & Architecture** — **PostgreSQL, MongoDB, Firebase, Supabase**, and clean database design
+- **Modern UI & Motion** — **Tailwind CSS, SCSS, Framer Motion, shadcn/ui** for premium UI/UX
+- **Performance First** — Core Web Vitals, SEO, accessibility, and scalability are always priorities
+
+---
+
+### 💬 What clients say
+
+> "Nikita is the go-to guy for anything front-end."
+
+> "Whenever I need anything uplifted on any of my sites, I look at no one other than Nikita. He is that good, and I myself am a developer."
+
+> "I am very lucky to have found such a talented front-end developer."
+
+---
+
+### 🛠️ How I work
+
+1. **Send me what you've got** — a Figma file, a rough idea, or a broken AI-generated project
+2. **I diagnose honestly** — whether it needs a quick fix, a deeper rebuild, or something new entirely
+3. **I build or fix it** — clean code, clear communication, no surprises
+4. **You get something you can actually maintain** — documented, stable, production-ready
 
 ---
 
 ### 💼 Freelancing & Collaboration
 
-**6+ years of experience** delivering production-ready applications for startups and businesses.
-
-- 🌍 Top Rated Freelancer on [**Upwork**](https://www.upwork.com/freelancers/~01666af90b1c137ab9) — 100% Job Success
+- 🌍 **Top Rated Freelancer** on [Upwork](https://www.upwork.com/freelancers/~01666af90b1c137ab9) — 100% Job Success
 - 🤝 Open to contract work and long-term collaborations
 - 💬 Agile/Scrum workflow (Jira, Linear, Slack, Git, Docker)
 
@@ -105,6 +128,19 @@
   <img src="https://img.shields.io/badge/-Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
   <img src="https://img.shields.io/badge/-Linear-5E6AD2?style=for-the-badge&logo=linear&logoColor=white" />
   <img src="https://img.shields.io/badge/-Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yeldynov&show_icons=true&theme=default&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeldynov&layout=compact&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yeldynov&hide_border=true" height="165" />
 </p>
 
 ---
