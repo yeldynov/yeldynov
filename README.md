@@ -152,9 +152,13 @@
 ### 📌 Connect with Me
 
 - 💼 [Upwork Profile](https://www.upwork.com/freelancers/~01666af90b1c137ab9)
+- 📩 [Email Directly](mailto:yeldynovn@gmail.com)
+<!--
 - 👨‍💻 [GitHub Projects](https://github.com/yeldynov)
 - 🧪 [Frontend Mentor](https://www.frontendmentor.io/profile/yeldynov)
 - 🧠 [Codewars](https://www.codewars.com/users/yeldynov%20/)
+
+-->
 
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yeldynov&label=Profile%20views&color=0e75b6&style=flat" alt="yeldynov" /> </p>
