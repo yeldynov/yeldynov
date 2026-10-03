@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Developer — I build clean, scalable web products, and fix the ones that broke.</h3>
 
 <p align="center">
-  <b>Next.js · React · Node.js · TypeScript</b> — 6+ years shipping production-ready apps for startups and businesses.
+  <b>Next.js · React · Node.js · TypeScript</b> — 4+ years shipping production-ready apps for startups and businesses.
   <br><br>
   <a href="https://www.upwork.com/freelancers/~01666af90b1c137ab9">
     <img src="https://img.shields.io/badge/Hire%20Me-Upwork-14a800?style=for-the-badge&logo=upwork" alt="Hire Me on Upwork">
