@@ -12,7 +12,7 @@
 
 ### 💼 Projects
 
-**[Old Road](https://tea-shop-coral.vercel.app/)** — tea e-commerce store 
+**[Old Road](https://tea-shop-coral.vercel.app/)** — tea e-commerce store (personal project) 
 Next.js storefront with collections, product pages, search, cart and user accounts.
 `Next.js` `TypeScript` `Tailwind CSS` `Better Auth`
 
@@ -24,7 +24,7 @@ Built most of the front end: curriculum search, instructor dashboards, the stude
 Built the marketing site and [docs site](https://docs.unilake.com/) on shared UI components, with Sentry error monitoring.
 `Tailwind CSS` `JavaScript` `Sentry` `Docker`
 
-**[Atelier](https://atelie-store-beta.vercel.app/)** — fashion storefront
+**[Atelier](https://atelie-store-beta.vercel.app/)** — fashion storefront (personal project) 
 Next.js store with 11 product collections, search and user accounts.
 `Next.js` `TypeScript` `Tailwind CSS` `Better Auth`
 
