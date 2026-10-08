@@ -2,18 +2,20 @@
 
 <p align="center">
   3+ years building React and Next.js interfaces for SaaS, e-commerce and education products.
+  <br>
+  20+ websites and web apps shipped as a Top Rated freelancer on Upwork, 100% Job Success Score across 26 contracts.
   <br><br>
   <a href="https://www.linkedin.com/in/yeldynov/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:yeldynovn@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.upwork.com/freelancers/~01666af90b1c137ab9"><img src="https://img.shields.io/badge/Top%20Rated-Upwork%20·%20100%25%20JSS-14a800?style=for-the-badge&logo=upwork&logoColor=white" alt="Top Rated on Upwork"></a>
+  <a href="https://www.upwork.com/freelancers/~01666af90b1c137ab9"><img src="https://img.shields.io/badge/Upwork-14a800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"></a>
 </p>
 
 ---
 
 ### 💼 Projects
 
-**[Old Road](https://tea-shop-coral.vercel.app/)** — tea e-commerce store (personal project) 
-Next.js storefront with collections, product pages, search, cart and user accounts.
+**E-commerce** — [Old Road](https://tea-shop-coral.vercel.app/) (tea shop) · [Atelier](https://atelie-store-beta.vercel.app/) (fashion store)
+Next.js storefronts with product collections, search, cart and user accounts.
 `Next.js` `TypeScript` `Tailwind CSS` `Better Auth`
 
 **[Art Opening Minds](https://artopeningminds.org/)** — social-emotional learning platform used by UC Riverside, College of Marin and other US colleges
@@ -24,11 +26,9 @@ Built most of the front end: curriculum search, instructor dashboards, the stude
 Built the marketing site and [docs site](https://docs.unilake.com/) on shared UI components, with Sentry error monitoring.
 `Tailwind CSS` `JavaScript` `Sentry` `Docker`
 
-**[Atelier](https://atelie-store-beta.vercel.app/)** — fashion storefront (personal project) 
-Next.js store with 11 product collections, search and user accounts.
-`Next.js` `TypeScript` `Tailwind CSS` `Better Auth`
-
-**Freelance** — 20+ websites and web apps for SaaS, e-commerce and agency clients, from Figma designs to deployment. Top Rated on Upwork with a 100% Job Success Score across 26 contracts.
+**Websites** — [Photographer portfolio](https://wondrous-lolly-081cc0.netlify.app/) · [AI photo search landing](https://ai-startup-lp.netlify.app/) · [Product landing](https://gleeful-lebkuchen-0c1740.netlify.app/)
+Responsive portfolio and marketing pages built from design to deployment.
+`React` `TypeScript` `Vite`
 
 ---
 
@@ -57,5 +57,3 @@ Next.js store with 11 product collections, search and user accounts.
 </p>
 
 Also: SSR/SSG, Server Actions, REST APIs, OAuth (Better Auth, Clerk), CI/CD, accessibility (WCAG), design systems.
-
-
