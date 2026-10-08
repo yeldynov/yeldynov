@@ -14,7 +14,7 @@
 
 ### 💼 Projects
 
-**E-commerce** — [Old Road](https://tea-shop-coral.vercel.app/) (tea shop) · [Atelier](https://atelie-store-beta.vercel.app/) (fashion store)
+**[Old Road](https://tea-shop-coral.vercel.app/) & [Atelier](https://atelie-store-beta.vercel.app/)** — e-commerce stores for tea and fashion
 Next.js storefronts with product collections, search, cart and user accounts.
 `Next.js` `TypeScript` `Tailwind CSS` `Better Auth`
 
