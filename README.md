@@ -29,7 +29,7 @@ Built the marketing site and [docs site](https://docs.unilake.com/) on shared UI
 **Other**
 - [Photographer portfolio](https://wondrous-lolly-081cc0.netlify.app/) — portfolio site with a photo gallery · `React`
 - [AI Startup](https://ai-startup-lp.netlify.app/) — landing page for an AI-powered photo search product · `React`
-- [EVO Gym](https://gleeful-lebkuchen-0c1740.netlify.app/) — responsive landing page · `React` `TypeScript` `Vite`
+- [EVO Gym](https://gleeful-lebkuchen-0c1740.netlify.app/) — landing page for a fitness gym · `React` `TypeScript` `Vite`
 
 ---
 
