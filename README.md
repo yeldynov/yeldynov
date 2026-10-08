@@ -60,14 +60,3 @@ Also: SSR/SSG, Server Actions, REST APIs, OAuth (Better Auth, Clerk), CI/CD, acc
 
 ---
 
-### 💬 From clients
-
-> "Nikita is the go-to guy for anything front-end." — *Upwork client*
-
-> "Whenever I need anything uplifted on any of my sites, I look at no one other than Nikita. He is that good, and I myself am a developer." — *Upwork client*
-
----
-
-### 🎯 What's next
-
-Looking for a long-term remote role in a product team, growing toward Senior in front-end architecture and design systems.
