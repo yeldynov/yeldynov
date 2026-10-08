@@ -10,7 +10,11 @@
 
 ---
 
-### 💼 Recent work
+### 💼 Projects
+
+**[Old Road](https://tea-shop-coral.vercel.app/)** — tea e-commerce store (personal project)
+Next.js storefront with collections, product pages, search, cart and user accounts.
+`Next.js` `TypeScript` `Tailwind CSS` `Better Auth`
 
 **[Art Opening Minds](https://artopeningminds.org/)** — social-emotional learning platform used by UC Riverside, College of Marin and other US colleges
 Built most of the front end: curriculum search, instructor dashboards, the student class flow and custom Clerk auth pages. Connected the UI to a Xano backend through REST APIs and Next.js Server Actions; unit tests with Jest and React Testing Library.
@@ -20,14 +24,11 @@ Built most of the front end: curriculum search, instructor dashboards, the stude
 Built the marketing site and [docs site](https://docs.unilake.com/) on shared UI components, with Sentry error monitoring.
 `Tailwind CSS` `JavaScript` `Sentry` `Docker`
 
+**[Atelier](https://atelie-store-beta.vercel.app/)** — fashion storefront (personal project)
+Next.js store with 11 product collections, search and user accounts.
+`Next.js` `TypeScript` `Tailwind CSS` `Better Auth`
+
 **Freelance** — 20+ websites and web apps for SaaS, e-commerce and agency clients, from Figma designs to deployment. Top Rated on Upwork with a 100% Job Success Score across 26 contracts.
-
----
-
-### 🧪 Personal projects
-
-- **[Old Road](https://tea-shop-coral.vercel.app/)** — tea e-commerce store with collections, search, cart and accounts · `Next.js` `Better Auth`
-- **[Atelier](https://atelie-store-beta.vercel.app/)** — fashion storefront with 11 product collections and user accounts · `Next.js` `Better Auth`
 
 ---
 
