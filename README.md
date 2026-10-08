@@ -18,17 +18,18 @@
 Next.js storefronts with product collections, search, cart and user accounts.
 `Next.js` `TypeScript` `Tailwind CSS` `Better Auth`
 
-**[Art Opening Minds](https://artopeningminds.org/)** — social-emotional learning platform used by UC Riverside, College of Marin and other US colleges.
-Built a big chunk of the front end: curriculum search, instructor dashboards, the student class flow and custom Clerk auth pages. Connected the UI to a Xano backend through REST APIs and Next.js Server Actions; unit tests with Jest and React Testing Library.
+**[Art Opening Minds](https://artopeningminds.org/)** — social-emotional learning platform used by UC Riverside, College of Marin and other US colleges
+Built most of the front end: curriculum search, instructor dashboards, the student class flow and custom Clerk auth pages. Connected the UI to a Xano backend through REST APIs and Next.js Server Actions; unit tests with Jest and React Testing Library.
 `Next.js` `React` `TypeScript` `Tailwind CSS` `Clerk`
 
 **[Unilake](https://www.unilake.com/)** — open-source data analytics platform
 Built the marketing site and [docs site](https://docs.unilake.com/) on shared UI components, with Sentry error monitoring.
 `Tailwind CSS` `JavaScript` `Sentry` `Docker`
 
-**Websites** — [Photographer portfolio](https://wondrous-lolly-081cc0.netlify.app/) · [AI photo search landing](https://ai-startup-lp.netlify.app/) · [Product landing](https://gleeful-lebkuchen-0c1740.netlify.app/)
-Responsive portfolio and marketing pages built from design to deployment.
-`React` `TypeScript` `Vite`
+**Other**
+- [Photographer portfolio](https://wondrous-lolly-081cc0.netlify.app/) — portfolio site with a photo gallery · `React`
+- [AI Startup](https://ai-startup-lp.netlify.app/) — landing page for an AI-powered photo search product · `React`
+- [EVO Gym](https://gleeful-lebkuchen-0c1740.netlify.app/) — responsive landing page · `React` `TypeScript` `Vite`
 
 ---
 
