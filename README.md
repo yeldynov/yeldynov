@@ -1,172 +1,65 @@
 <h1 align="center">Hi, I'm Nikita 👋</h1>
-<h3 align="center">Full-Stack Developer — I build clean, scalable web products, and fix the ones that broke.</h3>
+<h3 align="center">Front-end Developer · React, Next.js, TypeScript</h3>
 
 <p align="center">
-  <b>Next.js · React · Node.js · TypeScript</b> — 4+ years shipping production-ready apps for startups and businesses.
+  3+ years building React and Next.js interfaces for SaaS, e-commerce and education products.
   <br><br>
-  <a href="https://www.upwork.com/freelancers/~01666af90b1c137ab9">
-    <img src="https://img.shields.io/badge/Hire%20Me-Upwork-14a800?style=for-the-badge&logo=upwork" alt="Hire Me on Upwork">
-  </a>
-  <a href="mailto:yeldynovn@gmail.com">
-    <img src="https://img.shields.io/badge/Contact-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Me">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.upwork.com/freelancers/~01666af90b1c137ab9">
-    <img src="https://img.shields.io/badge/Top%20Rated-Upwork-14a800?style=flat-square" />
-  </a>
-  <a href="https://www.upwork.com/freelancers/~01666af90b1c137ab9">
-    <img src="https://img.shields.io/badge/Job%20Success-100%25-14a800?style=flat-square" />
-  </a>
-  <a href="https://www.upwork.com/freelancers/~01666af90b1c137ab9">
-    <img src="https://img.shields.io/badge/Experience-6%2B%20years-blue?style=flat-square" />
-  </a>
-  <a href="https://www.upwork.com/freelancers/~01666af90b1c137ab9">
-    <img src="https://img.shields.io/badge/Available-30%2B%20hrs%2Fweek-informational?style=flat-square" />
-  </a>
+  <a href="https://www.linkedin.com/in/yeldynov/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:yeldynovn@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.upwork.com/freelancers/~01666af90b1c137ab9"><img src="https://img.shields.io/badge/Top%20Rated-Upwork%20·%20100%25%20JSS-14a800?style=for-the-badge&logo=upwork&logoColor=white" alt="Top Rated on Upwork"></a>
 </p>
 
 ---
 
-### 🚀 What I do
+### 💼 Recent work
 
-- **Pixel-Perfect Frontend** — turning Figma, Adobe XD, and Sketch designs into responsive interfaces with **React, Next.js, and TypeScript**
-- **Full-Stack Ownership** — APIs, authentication, admin panels, integrations, and backend logic with **Node.js, Express, Python, and PHP**
-- **AI Code Rescue** — taking over broken AI-generated projects — messy state, tangled styling, wonky APIs — and turning them into stable, production-ready code, regardless of what tool built them
-- **AI-Powered Features** — integrating OpenAI and Anthropic APIs into real products when a project calls for it
-- **Data & Architecture** — **PostgreSQL, MongoDB, Firebase, Supabase**, and clean database design
-- **Modern UI & Motion** — **Tailwind CSS, SCSS, Framer Motion, shadcn/ui** for premium UI/UX
-- **Performance First** — Core Web Vitals, SEO, accessibility, and scalability are always priorities
+**[Art Opening Minds](https://artopeningminds.org/)** — social-emotional learning platform used by UC Riverside, College of Marin and other US colleges
+Built a big chunk of the front end: curriculum search, instructor dashboards, the student class flow and custom Clerk auth pages. Connected the UI to a Xano backend through REST APIs and Next.js Server Actions; unit tests with Jest and React Testing Library.
+`Next.js` `React` `TypeScript` `Tailwind CSS` `Clerk`
 
----
+**[Unilake](https://www.unilake.com/)** — open-source data analytics platform
+Built the marketing site and [docs site](https://docs.unilake.com/) on shared UI components, with Sentry error monitoring.
+`Tailwind CSS` `JavaScript` `Sentry` `Docker`
 
-### 💬 What clients say
-
-> "Nikita is the go-to guy for anything front-end."
-
-> "Whenever I need anything uplifted on any of my sites, I look at no one other than Nikita. He is that good, and I myself am a developer."
-
-> "I am very lucky to have found such a talented front-end developer."
+**Freelance** — 20+ websites and web apps for SaaS, e-commerce and agency clients, from Figma designs to deployment. Top Rated on Upwork with a 100% Job Success Score across 26 contracts.
 
 ---
 
-### 🛠️ How I work
+### 🧪 Personal projects
 
-1. **Send me what you've got** — a Figma file, a rough idea, or a broken AI-generated project
-2. **I diagnose honestly** — whether it needs a quick fix, a deeper rebuild, or something new entirely
-3. **I build or fix it** — clean code, clear communication, no surprises
-4. **You get something you can actually maintain** — documented, stable, production-ready
+- **[Old Road](https://tea-shop-coral.vercel.app/)** — tea e-commerce store with collections, search, cart and accounts · `Next.js` `Better Auth`
+- **[Atelier](https://atelie-store-beta.vercel.app/)** — fashion storefront with 11 product collections and user accounts · `Next.js` `Better Auth`
 
 ---
 
-### 💼 Freelancing & Collaboration
+### 🛠️ Stack
 
-- 🌍 **Top Rated Freelancer** on [Upwork](https://www.upwork.com/freelancers/~01666af90b1c137ab9) — 100% Job Success
-- 🤝 Open to contract work and long-term collaborations
-- 💬 Agile/Scrum workflow (Jira, Linear, Slack, Git, Docker)
-
-**Have a project idea — or a broken one?** [Let's chat!](mailto:yeldynovn@gmail.com)
-
----
-
-### 🛠️ Languages & Tools
-
-**Frontend Frameworks & Ecosystem**
 <p>
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/-jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Zustand-443E38?style=flat-square" />
+  <img src="https://img.shields.io/badge/-React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
 </p>
 
-**Styling, UI Libraries & Animation**
-<p>
-  <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-  <img src="https://img.shields.io/badge/-shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Chakra_UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Ant_Design-0170FE?style=for-the-badge&logo=ant-design&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Bulma-00D1B2?style=for-the-badge&logo=bulma&logoColor=white" />
-  <img src="https://img.shields.io/badge/-DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
-</p>
-
-**Backend, Database & CMS**
-<p>
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Appwrite-FD366E?style=for-the-badge&logo=appwrite&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PocketBase-B8DBE4?style=for-the-badge&logo=pocketbase&logoColor=black" />
-</p>
-
-**Design, DevOps & Workflow**
-<p>
-  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Adobe_XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Sketch-F7B500?style=for-the-badge&logo=sketch&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Linear-5E6AD2?style=for-the-badge&logo=linear&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
-</p>
-
-<!--
+Also: SSR/SSG, Server Actions, SCSS, REST APIs, GraphQL, OAuth (Better Auth, Clerk), React Testing Library, Vite, Docker, Git, CI/CD, Vercel, Sentry.
 
 ---
 
-### 📊 GitHub Stats
+### 💬 From clients
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yeldynov&show_icons=true&theme=default&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeldynov&layout=compact&hide_border=true" height="165" />
-</p>
+> "Nikita is the go-to guy for anything front-end." — *Upwork client*
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yeldynov&hide_border=true" height="165" />
-</p>
+> "Whenever I need anything uplifted on any of my sites, I look at no one other than Nikita. He is that good, and I myself am a developer." — *Upwork client*
 
 ---
 
--->
+### 🎯 What's next
 
-### 📌 Connect with Me
-
-- 💼 [Upwork Profile](https://www.upwork.com/freelancers/~01666af90b1c137ab9)
-- 📩 [Email Directly](mailto:yeldynovn@gmail.com)
-<!--
-- 👨‍💻 [GitHub Projects](https://github.com/yeldynov)
-- 🧪 [Frontend Mentor](https://www.frontendmentor.io/profile/yeldynov)
-- 🧠 [Codewars](https://www.codewars.com/users/yeldynov%20/)
-
--->
-
-<br/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yeldynov&label=Profile%20views&color=0e75b6&style=flat" alt="yeldynov" /> </p>
+Looking for a long-term remote role in a product team, growing toward Senior in front-end architecture and design systems.
