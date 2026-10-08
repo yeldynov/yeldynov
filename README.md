@@ -58,5 +58,4 @@ Next.js store with 11 product collections, search and user accounts.
 
 Also: SSR/SSG, Server Actions, REST APIs, OAuth (Better Auth, Clerk), CI/CD, accessibility (WCAG), design systems.
 
----
 
