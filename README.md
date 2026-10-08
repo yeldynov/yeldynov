@@ -1,5 +1,4 @@
-<h1 align="center">Hi, I'm Nikita 👋</h1>
-<h3 align="center">Front-end Developer · React, Next.js, TypeScript</h3>
+<h2 align="center">Front-end Developer · React, Next.js, TypeScript</h2>
 
 <p align="center">
   3+ years building React and Next.js interfaces for SaaS, e-commerce and education products.
@@ -14,7 +13,7 @@
 ### 💼 Recent work
 
 **[Art Opening Minds](https://artopeningminds.org/)** — social-emotional learning platform used by UC Riverside, College of Marin and other US colleges
-Built a big chunk of the front end: curriculum search, instructor dashboards, the student class flow and custom Clerk auth pages. Connected the UI to a Xano backend through REST APIs and Next.js Server Actions; unit tests with Jest and React Testing Library.
+Built most of the front end: curriculum search, instructor dashboards, the student class flow and custom Clerk auth pages. Connected the UI to a Xano backend through REST APIs and Next.js Server Actions; unit tests with Jest and React Testing Library.
 `Next.js` `React` `TypeScript` `Tailwind CSS` `Clerk`
 
 **[Unilake](https://www.unilake.com/)** — open-source data analytics platform
@@ -45,10 +44,18 @@ Built the marketing site and [docs site](https://docs.unilake.com/) on shared UI
   <img src="https://img.shields.io/badge/-React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" />
   <img src="https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white" />
   <img src="https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Testing_Library-E33332?style=flat-square&logo=testinglibrary&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Sentry-362D59?style=flat-square&logo=sentry&logoColor=white" />
   <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
 </p>
 
-Also: SSR/SSG, Server Actions, SCSS, REST APIs, GraphQL, OAuth (Better Auth, Clerk), React Testing Library, Vite, Docker, Git, CI/CD, Vercel, Sentry.
+Also: SSR/SSG, Server Actions, REST APIs, OAuth (Better Auth, Clerk), CI/CD, accessibility (WCAG), design systems.
 
 ---
 
