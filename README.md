@@ -1,4 +1,6 @@
-<h2 align="center">Full Stack Developer · Next.js, React, TypeScript, Node.js</h2>
+<p align="center">
+  <img src="./banner.svg" width="100%" alt="Nikita Yeldynov — Full Stack Developer: Next.js, React, TypeScript, Node.js">
+</p>
 
 <p align="center">
   3+ years building Next.js web apps for SaaS, e-commerce and education products, from the API and database to a polished, pixel-perfect UI.
@@ -23,7 +25,7 @@ Semantic search across lessons that opens the video at the exact second a topic 
 `Next.js` `TypeScript` `Gemini` `Sanity` `Clerk` `Zod`
 
 **[Art Opening Minds](https://artopeningminds.org/)** — social-emotional learning platform used by UC Riverside, College of Marin and other US colleges.\
-Built most of the app: curriculum search, instructor dashboards, the student class flow and custom Clerk auth pages. Connected it to a Xano backend through REST APIs and Next.js Server Actions; unit tests with Jest and React Testing Library.
+Built most of the frontend: curriculum search, instructor dashboards, the student class flow and custom Clerk auth pages. Connected it to a Xano backend through REST APIs and Next.js Server Actions; unit tests with Jest and React Testing Library.
 `Next.js` `React` `TypeScript` `Tailwind CSS` `Clerk` `REST APIs`
 
 **[Unilake](https://www.unilake.com/)** — open-source data analytics platform.\
@@ -36,8 +38,6 @@ Built the marketing site and [docs site](https://docs.unilake.com/) on shared UI
 - [Photographer portfolio](https://wondrous-lolly-081cc0.netlify.app/) — portfolio site with a photo gallery · `React` `Framer Motion`
 - [AI Startup](https://ai-startup-lp.netlify.app/) — landing page for an AI-powered photo search product · `React` `Tailwind CSS`
 - [EVO Gym](https://gleeful-lebkuchen-0c1740.netlify.app/) — landing page for a fitness gym · `React` `TypeScript` `Framer Motion`
-- [Puter](https://github.com/HeyPuter/puter) — open-source contribution: Russian translation, merged upstream
-
 ---
 
 ### 🛠️ Stack
