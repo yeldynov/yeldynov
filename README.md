@@ -15,8 +15,12 @@
 ### 💼 Projects
 
 **[Old Road](https://tea-shop-coral.vercel.app/) & [Atelier](https://atelie-store-beta.vercel.app/)** — full-stack e-commerce stores for tea and fashion\
-Next.js apps built end to end: product collections, search, cart, authentication and user accounts.
-`Next.js` `TypeScript` `Tailwind CSS` `Better Auth`
+Next.js apps built end to end: product collections, search, cart, Stripe Checkout, authentication and user accounts. Stock reservation that holds up when several people buy at once, idempotent webhooks and an admin dashboard. · [code](https://github.com/yeldynov/tea-shop)
+`Next.js` `TypeScript` `PostgreSQL` `Drizzle` `Stripe` `Better Auth` `Tailwind CSS`
+
+**[Vertex](https://vertex-delta-orpin.vercel.app/)** — video learning platform with AI search.\
+Semantic search across lessons that opens the video at the exact second a topic is taught. Course content in Sanity, Gemini for search, Clerk auth, PostHog analytics. · [code](https://github.com/yeldynov/vertex)
+`Next.js` `TypeScript` `Gemini` `Sanity` `Clerk` `Zod`
 
 **[Art Opening Minds](https://artopeningminds.org/)** — social-emotional learning platform used by UC Riverside, College of Marin and other US colleges.\
 Built most of the app: curriculum search, instructor dashboards, the student class flow and custom Clerk auth pages. Connected it to a Xano backend through REST APIs and Next.js Server Actions; unit tests with Jest and React Testing Library.
@@ -27,9 +31,12 @@ Built the marketing site and [docs site](https://docs.unilake.com/) on shared UI
 `Tailwind CSS` `JavaScript` `Sentry` `Docker`
 
 **Other**
-- [Photographer portfolio](https://wondrous-lolly-081cc0.netlify.app/) — portfolio site with a photo gallery · `React`
-- [AI Startup](https://ai-startup-lp.netlify.app/) — landing page for an AI-powered photo search product · `React`
-- [EVO Gym](https://gleeful-lebkuchen-0c1740.netlify.app/) — landing page for a fitness gym · `React` `TypeScript` `Vite`
+- [CarePulse](https://carepulse-tau-one.vercel.app/) — health care app for patient registration and appointments · `Next.js` `Appwrite` `shadcn/ui`
+- [Gvozdi](https://gvozdi-pwa.netlify.app/) — offline-first PWA for nail board practice · `React` `IndexedDB` `Zustand` `Clerk`
+- [Photographer portfolio](https://wondrous-lolly-081cc0.netlify.app/) — portfolio site with a photo gallery · `React` `Framer Motion`
+- [AI Startup](https://ai-startup-lp.netlify.app/) — landing page for an AI-powered photo search product · `React` `Tailwind CSS`
+- [EVO Gym](https://gleeful-lebkuchen-0c1740.netlify.app/) — landing page for a fitness gym · `React` `TypeScript` `Framer Motion`
+- [Puter](https://github.com/HeyPuter/puter) — open-source contribution: Russian translation, merged upstream
 
 ---
 
