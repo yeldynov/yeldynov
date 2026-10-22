@@ -120,3 +120,4 @@ Built the marketing site and [docs site](https://docs.unilake.com/) on shared UI
 </p>
 
 Also: Server Actions, Route Handlers, REST APIs, SSR/SSG, OAuth (Better Auth, Clerk, NextAuth), WebSockets, CI/CD, SEO, Core Web Vitals, accessibility (WCAG), design systems.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yeldynov&label=Profile%20views&color=0e75b6&style=flat" alt="yeldynov" /> </p>
