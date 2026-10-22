@@ -90,7 +90,26 @@ Semantic search across lessons that opens the video at the exact second a topic 
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
-**Also used:** Express, Prisma, Supabase, Firebase, MongoDB, REST APIs, Redux, React Query, Sass, MUI, Vite, Playwright, Vitest, GitHub Actions, Netlify, Figma, Claude Code, Cursor.
+**Also used**
+<p>
+  <img src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/-React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MUI-007FFF?style=flat-square&logo=mui&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Cursor-000000?style=flat-square&logo=cursor&logoColor=white" />
+</p>
 
-Server Actions, Route Handlers, SSR/SSG, OAuth, SEO, Core Web Vitals, accessibility (WCAG), design systems.
+Server Actions, Route Handlers, REST APIs, SSR/SSG, OAuth, SEO, Core Web Vitals, accessibility (WCAG), design systems.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yeldynov&label=Profile%20views&color=0e75b6&style=flat&cache=reset" alt="yeldynov" /> </p>
