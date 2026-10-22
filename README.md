@@ -28,13 +28,13 @@ Built the marketing site and [docs site](https://docs.unilake.com/) on shared UI
 Next.js apps built end to end: product collections, search, cart, Stripe Checkout, authentication and user accounts. Stock reservation that holds up when several people buy at once, idempotent webhooks and an admin dashboard. · [code](https://github.com/yeldynov/tea-shop)
 `Next.js` `TypeScript` `PostgreSQL` `Drizzle` `Stripe` `Better Auth` `Tailwind CSS`
 
-**[Vertex](https://vertex-delta-orpin.vercel.app/)** — video learning platform with AI search.\
-Semantic search across lessons that opens the video at the exact second a topic is taught. Course content in Sanity, Gemini for search, Clerk auth, PostHog analytics. · [code](https://github.com/yeldynov/vertex)
-`Next.js` `TypeScript` `Gemini` `Sanity` `Clerk` `Zod`
-
 **[Roam](https://github.com/yeldynov/roam)** — Airbnb-style mobile app where you search for stays in plain English.\
 iOS and Android app with no filters: describe the stay you want and semantic search finds matching listings. Each stay has a chat that answers questions from its own policies. Listings and embeddings in Sanity, Clerk auth with saved stays, PostHog analytics. · [code](https://github.com/yeldynov/roam)
 `React Native` `Expo` `TypeScript` `NativeWind` `Sanity` `Clerk` `PostHog`
+
+**[Vertex](https://vertex-delta-orpin.vercel.app/)** — video learning platform with AI search.\
+Semantic search across lessons that opens the video at the exact second a topic is taught. Course content in Sanity, Gemini for search, Clerk auth, PostHog analytics. · [code](https://github.com/yeldynov/vertex)
+`Next.js` `TypeScript` `Gemini` `Sanity` `Clerk` `Zod`
 
 **Other**
 - [CarePulse](https://carepulse-tau-one.vercel.app/) — health care app for patient registration and appointments · `Next.js` `Appwrite` `shadcn/ui`
