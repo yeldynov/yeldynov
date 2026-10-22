@@ -28,18 +28,16 @@ Built the marketing site and [docs site](https://docs.unilake.com/) on shared UI
 
 <a href="https://www.unilake.com/"><img src="./screenshots/unilake.png" width="40%" alt="Unilake marketing site homepage"></a>
 
-**[Old Road](https://tea-shop-coral.vercel.app/) & [Atelier](https://atelie-store-beta.vercel.app/)** — full-stack e-commerce stores for tea and fashion\
-Next.js apps built end to end: product collections, search, cart, Stripe Checkout, authentication and user accounts. Stock reservation that holds up when several people buy at once, idempotent webhooks and an admin dashboard. · [code](https://github.com/yeldynov/tea-shop)\
+**[Old Road](https://tea-shop-coral.vercel.app/)** — full-stack e-commerce store for Chinese tea\
+Next.js app built end to end: product collections, search, cart, Stripe Checkout, authentication and user accounts. Stock reservation that holds up when several people buy at once, idempotent webhooks and an admin dashboard. · [code](https://github.com/yeldynov/tea-shop)\
 `Next.js` `TypeScript` `PostgreSQL` `Drizzle` `Stripe` `Better Auth` `Tailwind CSS`
 
-<p>
-  <a href="https://tea-shop-coral.vercel.app/"><img src="./screenshots/old-road.png" width="40%" alt="Old Road tea shop homepage"></a>
-  <a href="https://atelie-store-beta.vercel.app/"><img src="./screenshots/atelier.png" width="40%" alt="Atelier fashion store homepage"></a>
-</p>
+<a href="https://tea-shop-coral.vercel.app/"><img src="./screenshots/old-road.png" width="40%" alt="Old Road tea shop homepage"></a>
 
 **Other**
 - [Roam](https://github.com/yeldynov/roam) — Airbnb-style mobile app where you search for stays in plain English · `React Native` `Expo` `TypeScript` `NativeWind` `Sanity` `Clerk` `PostHog`
 - [Vertex](https://vertex-delta-orpin.vercel.app/) — video learning platform with AI search that opens lessons at the exact second a topic is taught · [code](https://github.com/yeldynov/vertex) · `Next.js` `TypeScript` `Gemini` `Sanity` `Clerk` `Zod`
+- [Atelier](https://atelie-store-beta.vercel.app/) — luxury fashion storefront with collections, cart and Stripe Checkout · [code](https://github.com/yeldynov/atelie-store) · `Next.js` `TypeScript` `PostgreSQL` `Drizzle` `Better Auth` `Stripe`
 - [CarePulse](https://carepulse-tau-one.vercel.app/) — health care app for patient registration and appointments · `Next.js` `Appwrite` `shadcn/ui`
 - [Gvozdi](https://gvozdi-pwa.netlify.app/) — offline-first PWA for nail board practice · `React` `IndexedDB` `Zustand` `Clerk`
 - [Photographer portfolio](https://wondrous-lolly-081cc0.netlify.app/) — portfolio site with a photo gallery · `React` `Framer Motion`
