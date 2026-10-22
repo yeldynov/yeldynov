@@ -24,6 +24,10 @@ Next.js apps built end to end: product collections, search, cart, Stripe Checkou
 Semantic search across lessons that opens the video at the exact second a topic is taught. Course content in Sanity, Gemini for search, Clerk auth, PostHog analytics. · [code](https://github.com/yeldynov/vertex)
 `Next.js` `TypeScript` `Gemini` `Sanity` `Clerk` `Zod`
 
+**[Roam](https://github.com/yeldynov/roam)** — Airbnb-style mobile app where you search for stays in plain English.\
+iOS and Android app with no filters: describe the stay you want and semantic search finds matching listings. Each stay has a chat that answers questions from its own policies. Listings and embeddings in Sanity, Clerk auth with saved stays, PostHog analytics. · [code](https://github.com/yeldynov/roam)
+`React Native` `Expo` `TypeScript` `NativeWind` `Sanity` `Clerk` `PostHog`
+
 **[Art Opening Minds](https://artopeningminds.org/)** — social-emotional learning platform used by UC Riverside, College of Marin and other US colleges.\
 Built most of the frontend: curriculum search, instructor dashboards, the student class flow and custom Clerk auth pages. Connected it to a Xano backend through REST APIs and Next.js Server Actions; unit tests with Jest and React Testing Library.
 `Next.js` `React` `TypeScript` `Tailwind CSS` `Clerk` `REST APIs`
