@@ -16,6 +16,14 @@
 
 ### 💼 Projects
 
+**[Art Opening Minds](https://artopeningminds.org/)** — social-emotional learning platform used by UC Riverside, College of Marin and other US colleges.\
+Built most of the frontend: curriculum search, instructor dashboards, the student class flow and custom Clerk auth pages. Connected it to a Xano backend through REST APIs and Next.js Server Actions; unit tests with Jest and React Testing Library.
+`Next.js` `React` `TypeScript` `Tailwind CSS` `Clerk` `REST APIs`
+
+**[Unilake](https://www.unilake.com/)** — open-source data analytics platform.\
+Built the marketing site and [docs site](https://docs.unilake.com/) on shared UI components, with Sentry error monitoring.
+`Tailwind CSS` `JavaScript` `Sentry` `Docker`
+
 **[Old Road](https://tea-shop-coral.vercel.app/) & [Atelier](https://atelie-store-beta.vercel.app/)** — full-stack e-commerce stores for tea and fashion\
 Next.js apps built end to end: product collections, search, cart, Stripe Checkout, authentication and user accounts. Stock reservation that holds up when several people buy at once, idempotent webhooks and an admin dashboard. · [code](https://github.com/yeldynov/tea-shop)
 `Next.js` `TypeScript` `PostgreSQL` `Drizzle` `Stripe` `Better Auth` `Tailwind CSS`
@@ -27,14 +35,6 @@ Semantic search across lessons that opens the video at the exact second a topic 
 **[Roam](https://github.com/yeldynov/roam)** — Airbnb-style mobile app where you search for stays in plain English.\
 iOS and Android app with no filters: describe the stay you want and semantic search finds matching listings. Each stay has a chat that answers questions from its own policies. Listings and embeddings in Sanity, Clerk auth with saved stays, PostHog analytics. · [code](https://github.com/yeldynov/roam)
 `React Native` `Expo` `TypeScript` `NativeWind` `Sanity` `Clerk` `PostHog`
-
-**[Art Opening Minds](https://artopeningminds.org/)** — social-emotional learning platform used by UC Riverside, College of Marin and other US colleges.\
-Built most of the frontend: curriculum search, instructor dashboards, the student class flow and custom Clerk auth pages. Connected it to a Xano backend through REST APIs and Next.js Server Actions; unit tests with Jest and React Testing Library.
-`Next.js` `React` `TypeScript` `Tailwind CSS` `Clerk` `REST APIs`
-
-**[Unilake](https://www.unilake.com/)** — open-source data analytics platform.\
-Built the marketing site and [docs site](https://docs.unilake.com/) on shared UI components, with Sentry error monitoring.
-`Tailwind CSS` `JavaScript` `Sentry` `Docker`
 
 **Other**
 - [CarePulse](https://carepulse-tau-one.vercel.app/) — health care app for patient registration and appointments · `Next.js` `Appwrite` `shadcn/ui`
