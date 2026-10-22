@@ -20,19 +20,19 @@
 Built a big chunk of the frontend: curriculum search, instructor dashboards, the student class flow and custom Clerk auth pages. Connected it to a Xano backend through REST APIs and Next.js Server Actions; unit tests with Jest and React Testing Library.\
 `Next.js` `React` `TypeScript` `Tailwind CSS` `Clerk` `REST APIs`
 
-<a href="https://artopeningminds.org/"><img src="./screenshots/art-opening-minds.png" width="60%" alt="Art Opening Minds homepage"></a>
+<a href="https://artopeningminds.org/"><img src="./screenshots/art-opening-minds.png" width="40%" alt="Art Opening Minds homepage"></a>
 
 **[Unilake](https://www.unilake.com/)** — open-source data analytics platform.\
 Built the marketing site and [docs site](https://docs.unilake.com/) on shared UI components, with Sentry error monitoring.\
 `Tailwind CSS` `JavaScript` `Sentry` `Docker`
 
-<a href="https://www.unilake.com/"><img src="./screenshots/unilake.png" width="60%" alt="Unilake marketing site homepage"></a>
+<a href="https://www.unilake.com/"><img src="./screenshots/unilake.png" width="40%" alt="Unilake marketing site homepage"></a>
 
 **[Old Road](https://tea-shop-coral.vercel.app/)** — full-stack e-commerce store for Chinese tea\
 Next.js app built end to end: product collections, search, cart, Stripe Checkout, authentication and user accounts. Stock reservation that holds up when several people buy at once, idempotent webhooks and an admin dashboard. · [code](https://github.com/yeldynov/tea-shop)\
 `Next.js` `TypeScript` `PostgreSQL` `Drizzle` `Stripe` `Better Auth` `Tailwind CSS`
 
-<a href="https://tea-shop-coral.vercel.app/"><img src="./screenshots/old-road.png" width="60%" alt="Old Road tea shop homepage"></a>
+<a href="https://tea-shop-coral.vercel.app/"><img src="./screenshots/old-road.png" width="40%" alt="Old Road tea shop homepage"></a>
 
 **Other**
 - [Roam](https://github.com/yeldynov/roam) — Airbnb-style mobile app where you search for stays in plain English · `React Native` `Expo` `TypeScript` `NativeWind` `Sanity` `Clerk` `PostHog`
