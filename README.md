@@ -20,21 +20,38 @@
 Built a big chunk of the frontend: curriculum search, instructor dashboards, the student class flow and custom Clerk auth pages. Connected it to a Xano backend through REST APIs and Next.js Server Actions; unit tests with Jest and React Testing Library.
 `Next.js` `React` `TypeScript` `Tailwind CSS` `Clerk` `REST APIs`
 
+<a href="https://artopeningminds.org/"><img src="./screenshots/art-opening-minds.png" width="40%" alt="Art Opening Minds homepage"></a>
+
 **[Unilake](https://www.unilake.com/)** — open-source data analytics platform.\
 Built the marketing site and [docs site](https://docs.unilake.com/) on shared UI components, with Sentry error monitoring.
 `Tailwind CSS` `JavaScript` `Sentry` `Docker`
+
+<a href="https://www.unilake.com/"><img src="./screenshots/unilake.png" width="40%" alt="Unilake marketing site homepage"></a>
 
 **[Old Road](https://tea-shop-coral.vercel.app/) & [Atelier](https://atelie-store-beta.vercel.app/)** — full-stack e-commerce stores for tea and fashion\
 Next.js apps built end to end: product collections, search, cart, Stripe Checkout, authentication and user accounts. Stock reservation that holds up when several people buy at once, idempotent webhooks and an admin dashboard. · [code](https://github.com/yeldynov/tea-shop)
 `Next.js` `TypeScript` `PostgreSQL` `Drizzle` `Stripe` `Better Auth` `Tailwind CSS`
 
+<p>
+  <a href="https://tea-shop-coral.vercel.app/"><img src="./screenshots/old-road.png" width="40%" alt="Old Road tea shop homepage"></a>
+  <a href="https://atelie-store-beta.vercel.app/"><img src="./screenshots/atelier.png" width="40%" alt="Atelier fashion store homepage"></a>
+</p>
+
 **[Roam](https://github.com/yeldynov/roam)** — Airbnb-style mobile app where you search for stays in plain English.\
 iOS and Android app with no filters: describe the stay you want and semantic search finds matching listings. Each stay has a chat that answers questions from its own policies. Listings and embeddings in Sanity, Clerk auth with saved stays, PostHog analytics. · [code](https://github.com/yeldynov/roam)
 `React Native` `Expo` `TypeScript` `NativeWind` `Sanity` `Clerk` `PostHog`
 
+<p>
+  <img src="https://raw.githubusercontent.com/yeldynov/roam/HEAD/assets/screenshots/onboarding.png" width="13%" alt="Roam onboarding screen">
+  <img src="https://raw.githubusercontent.com/yeldynov/roam/HEAD/assets/screenshots/home.png" width="13%" alt="Roam home screen">
+  <img src="https://raw.githubusercontent.com/yeldynov/roam/HEAD/assets/screenshots/search.png" width="13%" alt="Roam search results">
+</p>
+
 **[Vertex](https://vertex-delta-orpin.vercel.app/)** — video learning platform with AI search.\
 Semantic search across lessons that opens the video at the exact second a topic is taught. Course content in Sanity, Gemini for search, Clerk auth, PostHog analytics. · [code](https://github.com/yeldynov/vertex)
 `Next.js` `TypeScript` `Gemini` `Sanity` `Clerk` `Zod`
+
+<a href="https://vertex-delta-orpin.vercel.app/"><img src="./screenshots/vertex.png" width="40%" alt="Vertex homepage with AI search"></a>
 
 **Other**
 - [CarePulse](https://carepulse-tau-one.vercel.app/) — health care app for patient registration and appointments · `Next.js` `Appwrite` `shadcn/ui`
