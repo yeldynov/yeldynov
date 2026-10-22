@@ -23,7 +23,7 @@ Built a big chunk of the frontend: curriculum search, instructor dashboards, the
 <a href="https://artopeningminds.org/"><img src="./screenshots/art-opening-minds.png" width="40%" alt="Art Opening Minds homepage"></a>
 
 **[Unilake](https://www.unilake.com/)** — open-source data analytics platform.\
-Built the marketing site and [docs site](https://docs.unilake.com/) on shared UI components, with Sentry error monitoring.\
+Built the marketing site and [docs site](https://docs.unilake.com/) on shared UI components, with Sentry error monitoring. · code: [site](https://github.com/yeldynov/www.unilake) · [docs](https://github.com/yeldynov/docs.unilake)\
 `Tailwind CSS` `JavaScript` `Sentry` `Docker`
 
 <a href="https://www.unilake.com/"><img src="./screenshots/unilake.png" width="40%" alt="Unilake marketing site homepage"></a>
@@ -38,11 +38,11 @@ Next.js app built end to end: product collections, search, cart, Stripe Checkout
 - [Roam](https://github.com/yeldynov/roam) — Airbnb-style mobile app where you search for stays in plain English · `React Native` `Expo` `TypeScript` `NativeWind` `Sanity` `Clerk` `PostHog`
 - [Vertex](https://vertex-delta-orpin.vercel.app/) — video learning platform with AI search that opens lessons at the exact second a topic is taught · [code](https://github.com/yeldynov/vertex) · `Next.js` `TypeScript` `Gemini` `Sanity` `Clerk` `Zod`
 - [Atelier](https://atelie-store-beta.vercel.app/) — luxury fashion storefront with collections, cart and Stripe Checkout · [code](https://github.com/yeldynov/atelie-store) · `Next.js` `TypeScript` `PostgreSQL` `Drizzle` `Better Auth` `Stripe`
-- [CarePulse](https://carepulse-tau-one.vercel.app/) — health care app for patient registration and appointments · `Next.js` `Appwrite` `shadcn/ui`
-- [Gvozdi](https://gvozdi-pwa.netlify.app/) — offline-first PWA for nail board practice · `React` `IndexedDB` `Zustand` `Clerk`
-- [Photographer portfolio](https://wondrous-lolly-081cc0.netlify.app/) — portfolio site with a photo gallery · `React` `Framer Motion`
-- [AI Startup](https://ai-startup-lp.netlify.app/) — landing page for an AI-powered photo search product · `React` `Tailwind CSS`
-- [EVO Gym](https://gleeful-lebkuchen-0c1740.netlify.app/) — landing page for a fitness gym · `React` `TypeScript` `Framer Motion`
+- [CarePulse](https://carepulse-tau-one.vercel.app/) — health care app for patient registration and appointments · [code](https://github.com/yeldynov/carepulse) · `Next.js` `Appwrite` `shadcn/ui`
+- [Gvozdi](https://gvozdi-pwa.netlify.app/) — offline-first PWA for nail board practice · [code](https://github.com/yeldynov/gvozdi-pwa) · `React` `IndexedDB` `Zustand` `Clerk`
+- [Photographer portfolio](https://wondrous-lolly-081cc0.netlify.app/) — portfolio site with a photo gallery · [code](https://github.com/yeldynov/photographer-alina) · `React` `Framer Motion`
+- [AI Startup](https://ai-startup-lp.netlify.app/) — landing page for an AI-powered photo search product · [code](https://github.com/yeldynov/ai-startup-lp) · `React` `Tailwind CSS`
+- [EVO Gym](https://gleeful-lebkuchen-0c1740.netlify.app/) — landing page for a fitness gym · [code](https://github.com/yeldynov/gym-landing-typescript) · `React` `TypeScript` `Framer Motion`
 ---
 ### 🛠️ Stack
 
