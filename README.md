@@ -37,23 +37,9 @@ Next.js apps built end to end: product collections, search, cart, Stripe Checkou
   <a href="https://atelie-store-beta.vercel.app/"><img src="./screenshots/atelier.png" width="40%" alt="Atelier fashion store homepage"></a>
 </p>
 
-**[Roam](https://github.com/yeldynov/roam)** — Airbnb-style mobile app where you search for stays in plain English.\
-iOS and Android app with no filters: describe the stay you want and semantic search finds matching listings. Each stay has a chat that answers questions from its own policies. Listings and embeddings in Sanity, Clerk auth with saved stays, PostHog analytics. · [code](https://github.com/yeldynov/roam)
-`React Native` `Expo` `TypeScript` `NativeWind` `Sanity` `Clerk` `PostHog`
-
-<p>
-  <img src="https://raw.githubusercontent.com/yeldynov/roam/HEAD/assets/screenshots/onboarding.png" width="13%" alt="Roam onboarding screen">
-  <img src="https://raw.githubusercontent.com/yeldynov/roam/HEAD/assets/screenshots/home.png" width="13%" alt="Roam home screen">
-  <img src="https://raw.githubusercontent.com/yeldynov/roam/HEAD/assets/screenshots/search.png" width="13%" alt="Roam search results">
-</p>
-
-**[Vertex](https://vertex-delta-orpin.vercel.app/)** — video learning platform with AI search.\
-Semantic search across lessons that opens the video at the exact second a topic is taught. Course content in Sanity, Gemini for search, Clerk auth, PostHog analytics. · [code](https://github.com/yeldynov/vertex)
-`Next.js` `TypeScript` `Gemini` `Sanity` `Clerk` `Zod`
-
-<a href="https://vertex-delta-orpin.vercel.app/"><img src="./screenshots/vertex.png" width="40%" alt="Vertex homepage with AI search"></a>
-
 **Other**
+- [Roam](https://github.com/yeldynov/roam) — Airbnb-style mobile app where you search for stays in plain English · `React Native` `Expo` `TypeScript` `NativeWind` `Sanity` `Clerk` `PostHog`
+- [Vertex](https://vertex-delta-orpin.vercel.app/) — video learning platform with AI search that opens lessons at the exact second a topic is taught · [code](https://github.com/yeldynov/vertex) · `Next.js` `TypeScript` `Gemini` `Sanity` `Clerk` `Zod`
 - [CarePulse](https://carepulse-tau-one.vercel.app/) — health care app for patient registration and appointments · `Next.js` `Appwrite` `shadcn/ui`
 - [Gvozdi](https://gvozdi-pwa.netlify.app/) — offline-first PWA for nail board practice · `React` `IndexedDB` `Zustand` `Clerk`
 - [Photographer portfolio](https://wondrous-lolly-081cc0.netlify.app/) — portfolio site with a photo gallery · `React` `Framer Motion`
