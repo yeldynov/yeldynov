@@ -17,7 +17,7 @@
 ### 💼 Projects
 
 **[Art Opening Minds](https://artopeningminds.org/)** — social-emotional learning platform used by UC Riverside, College of Marin and other US colleges.\
-Built most of the frontend: curriculum search, instructor dashboards, the student class flow and custom Clerk auth pages. Connected it to a Xano backend through REST APIs and Next.js Server Actions; unit tests with Jest and React Testing Library.
+Built a big chunk of the frontend: curriculum search, instructor dashboards, the student class flow and custom Clerk auth pages. Connected it to a Xano backend through REST APIs and Next.js Server Actions; unit tests with Jest and React Testing Library.
 `Next.js` `React` `TypeScript` `Tailwind CSS` `Clerk` `REST APIs`
 
 **[Unilake](https://www.unilake.com/)** — open-source data analytics platform.\
