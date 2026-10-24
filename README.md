@@ -35,7 +35,7 @@ Next.js app built end to end: product collections, search, cart, Stripe Checkout
 <a href="https://tea-shop-coral.vercel.app/"><img src="./screenshots/old-road.png" width="40%" alt="Old Road tea shop homepage"></a>
 
 **Other**
-- [Roam](https://github.com/yeldynov/roam) — Airbnb-style mobile app where you search for stays in plain English · `React Native` `Expo` `TypeScript` `NativeWind` `Sanity` `Clerk` `PostHog`
+- [Roam](https://appetize.io/app/b_b7zfddw7bswku4lj3xi77rd5ba) — Airbnb-style iOS and Android app: search stays in plain English, book with Stripe, ask each stay's chat about its policies; try iOS in the browser · [code](https://github.com/yeldynov/roam) · `React Native` `Expo` `TypeScript` `NativeWind` `Sanity` `Clerk` `Stripe` `PostHog`
 - [Vertex](https://vertex-delta-orpin.vercel.app/) — video learning platform with AI search that opens lessons at the exact second a topic is taught · [code](https://github.com/yeldynov/vertex) · `Next.js` `TypeScript` `Gemini` `Sanity` `Clerk` `Zod`
 - [Atelier](https://atelie-store-beta.vercel.app/) — luxury fashion storefront with collections, cart and Stripe Checkout · [code](https://github.com/yeldynov/atelie-store) · `Next.js` `TypeScript` `PostgreSQL` `Drizzle` `Better Auth` `Stripe`
 - [CarePulse](https://carepulse-tau-one.vercel.app/) — health care app for patient registration and appointments · [code](https://github.com/yeldynov/carepulse) · `Next.js` `Appwrite` `shadcn/ui`
@@ -87,6 +87,7 @@ Next.js app built end to end: product collections, search, cart, Stripe Checkout
   <img src="https://img.shields.io/badge/-Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white" />
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Expo_EAS-000020?style=for-the-badge&logo=expo&logoColor=white" />
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
