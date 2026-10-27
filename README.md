@@ -16,17 +16,15 @@
 
 ### 💼 Projects
 
-**[Art Opening Minds](https://artopeningminds.org/)** — social-emotional learning platform used by UC Riverside, College of Marin and other US colleges.\
-Built a big chunk of the frontend: curriculum search, instructor dashboards, the student class flow and custom Clerk auth pages. Connected it to a Xano backend through REST APIs and Next.js Server Actions; unit tests with Jest and React Testing Library.\
-`Next.js` `React` `TypeScript` `Tailwind CSS` `Clerk` `REST APIs`
+**[Roam](https://github.com/yeldynov/roam)** — Airbnb-style mobile app where you search for stays in plain English.\
+iOS and Android app with no filters: describe the stay you want and semantic search finds matching listings. Each stay has a chat that answers questions from its own policies. Listings and embeddings in Sanity, Clerk auth with saved stays, PostHog analytics. · [code](https://github.com/yeldynov/roam)\
+`React Native` `Expo` `TypeScript` `NativeWind` `Sanity` `Clerk` `PostHog`
 
-<a href="https://artopeningminds.org/"><img src="./screenshots/art-opening-minds.png" width="40%" alt="Art Opening Minds homepage"></a>
-
-**[Unilake](https://www.unilake.com/)** — open-source data analytics platform.\
-Built the marketing site and [docs site](https://docs.unilake.com/) on shared UI components, with Sentry error monitoring. · code: [site](https://github.com/yeldynov/www.unilake) · [docs](https://github.com/yeldynov/docs.unilake)\
-`Tailwind CSS` `JavaScript` `Sentry` `Docker`
-
-<a href="https://www.unilake.com/"><img src="./screenshots/unilake.png" width="40%" alt="Unilake marketing site homepage"></a>
+<p>
+  <img src="https://raw.githubusercontent.com/yeldynov/roam/HEAD/assets/screenshots/onboarding.png" width="13%" alt="Roam onboarding screen">
+  <img src="https://raw.githubusercontent.com/yeldynov/roam/HEAD/assets/screenshots/home.png" width="13%" alt="Roam home screen">
+  <img src="https://raw.githubusercontent.com/yeldynov/roam/HEAD/assets/screenshots/search.png" width="13%" alt="Roam search results">
+</p>
 
 **[Old Road](https://tea-shop-coral.vercel.app/)** — full-stack e-commerce store for Chinese tea\
 Next.js app built end to end: product collections, search, cart, Stripe Checkout, authentication and user accounts. Stock reservation that holds up when several people buy at once, idempotent webhooks and an admin dashboard. · [code](https://github.com/yeldynov/tea-shop)\
@@ -34,12 +32,16 @@ Next.js app built end to end: product collections, search, cart, Stripe Checkout
 
 <a href="https://tea-shop-coral.vercel.app/"><img src="./screenshots/old-road.png" width="40%" alt="Old Road tea shop homepage"></a>
 
+**[Vertex](https://vertex-delta-orpin.vercel.app/)** — video learning platform with AI search.\
+Semantic search across lessons that opens the video at the exact second a topic is taught. Course content in Sanity, Gemini for search, Clerk auth, PostHog analytics. · [code](https://github.com/yeldynov/vertex)\
+`Next.js` `TypeScript` `Gemini` `Sanity` `Clerk` `Zod`
+
+<a href="https://vertex-delta-orpin.vercel.app/"><img src="./screenshots/vertex.png" width="40%" alt="Vertex homepage with AI search"></a>
+
 **Other**
-- [Roam](https://appetize.io/app/b_b7zfddw7bswku4lj3xi77rd5ba) — Airbnb-style iOS and Android app: search stays in plain English, book with Stripe, ask each stay's chat about its policies; try iOS in the browser · [code](https://github.com/yeldynov/roam) · `React Native` `Expo` `TypeScript` `NativeWind` `Sanity` `Clerk` `Stripe` `PostHog`
-- [Vertex](https://vertex-delta-orpin.vercel.app/) — video learning platform with AI search that opens lessons at the exact second a topic is taught · [code](https://github.com/yeldynov/vertex) · `Next.js` `TypeScript` `Gemini` `Sanity` `Clerk` `Zod`
 - [Atelier](https://atelie-store-beta.vercel.app/) — luxury fashion storefront with collections, cart and Stripe Checkout · [code](https://github.com/yeldynov/atelie-store) · `Next.js` `TypeScript` `PostgreSQL` `Drizzle` `Better Auth` `Stripe`
 - [CarePulse](https://carepulse-tau-one.vercel.app/) — health care app for patient registration and appointments · [code](https://github.com/yeldynov/carepulse) · `Next.js` `Appwrite` `shadcn/ui`
-- [Gvozdi](https://gvozdi-pwa.netlify.app/) — offline-first PWA for nail board practice · [code](https://github.com/yeldynov/gvozdi-pwa) · `React` `IndexedDB` `Zustand` `Clerk`
+- [Gvozdi](https://gvozdi.expo.app) — calm companion for nail board practice on iOS, Android and the web (PWA) · [code](https://github.com/yeldynov/gvozdi) · `React Native` `Expo` `Expo Router` `TypeScript`
 - [Photographer portfolio](https://wondrous-lolly-081cc0.netlify.app/) — portfolio site with a photo gallery · [code](https://github.com/yeldynov/photographer-alina) · `React` `Framer Motion`
 - [AI Startup](https://ai-startup-lp.netlify.app/) — landing page for an AI-powered photo search product · [code](https://github.com/yeldynov/ai-startup-lp) · `React` `Tailwind CSS`
 - [EVO Gym](https://gleeful-lebkuchen-0c1740.netlify.app/) — landing page for a fitness gym · [code](https://github.com/yeldynov/gym-landing-typescript) · `React` `TypeScript` `Framer Motion`
