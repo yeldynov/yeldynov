@@ -16,14 +16,14 @@
 
 ### 💼 Projects
 
-**[Roam](https://github.com/yeldynov/roam)** — Airbnb-style mobile app where you search for stays in plain English.\
-iOS and Android app with no filters: describe the stay you want and semantic search finds matching listings. Each stay has a chat that answers questions from its own policies. Listings and embeddings in Sanity, Clerk auth with saved stays, PostHog analytics. · [code](https://github.com/yeldynov/roam)\
-`React Native` `Expo` `TypeScript` `NativeWind` `Sanity` `Clerk` `PostHog`
+**[Gvozdi](https://gvozdi.expo.app)** — calm companion for nail board practice on iOS, Android and the web.\
+One Expo codebase ships native apps and an installable offline PWA in English, Ukrainian and Russian. Three practice modes with timers that survive backgrounding and reloads, streaks, achievements and charts, and an email-code account that syncs sessions across devices. Every push deploys the web app and an over-the-air update. · [iOS demo](https://appetize.io/app/b_lyoma6htlukdtl3kzqkvycxcte) · [code](https://github.com/yeldynov/gvozdi)\
+`React Native` `Expo` `TypeScript` `Zustand` `Clerk` `Drizzle` `PostgreSQL` `PostHog`
 
 <p>
-  <img src="https://raw.githubusercontent.com/yeldynov/roam/HEAD/assets/screenshots/onboarding.png" width="13%" alt="Roam onboarding screen">
-  <img src="https://raw.githubusercontent.com/yeldynov/roam/HEAD/assets/screenshots/home.png" width="13%" alt="Roam home screen">
-  <img src="https://raw.githubusercontent.com/yeldynov/roam/HEAD/assets/screenshots/search.png" width="13%" alt="Roam search results">
+  <img src="https://raw.githubusercontent.com/yeldynov/gvozdi/HEAD/docs/screenshots/home.png" width="13%" alt="Gvozdi home screen with streak and today's practice">
+  <img src="https://raw.githubusercontent.com/yeldynov/gvozdi/HEAD/docs/screenshots/session.png" width="13%" alt="Gvozdi peak session with the intensity curve">
+  <img src="https://raw.githubusercontent.com/yeldynov/gvozdi/HEAD/docs/screenshots/progress.png" width="13%" alt="Gvozdi progress screen with streak, level and totals">
 </p>
 
 **[Old Road](https://tea-shop-coral.vercel.app/)** — full-stack e-commerce store for Chinese tea\
@@ -39,9 +39,9 @@ Semantic search across lessons that opens the video at the exact second a topic 
 <a href="https://vertex-delta-orpin.vercel.app/"><img src="./screenshots/vertex.png" width="40%" alt="Vertex homepage with AI search"></a>
 
 **Other**
+- [Roam](https://appetize.io/app/b_b7zfddw7bswku4lj3xi77rd5ba) — Airbnb-style iOS and Android app: search stays in plain English, book with Stripe, ask each stay's chat about its policies; try iOS in the browser · [code](https://github.com/yeldynov/roam) · `React Native` `Expo` `TypeScript` `NativeWind` `Sanity` `Clerk` `Stripe` `PostHog`
 - [Atelier](https://atelie-store-beta.vercel.app/) — luxury fashion storefront with collections, cart and Stripe Checkout · [code](https://github.com/yeldynov/atelie-store) · `Next.js` `TypeScript` `PostgreSQL` `Drizzle` `Better Auth` `Stripe`
 - [CarePulse](https://carepulse-tau-one.vercel.app/) — health care app for patient registration and appointments · [code](https://github.com/yeldynov/carepulse) · `Next.js` `Appwrite` `shadcn/ui`
-- [Gvozdi](https://gvozdi.expo.app) — calm companion for nail board practice on iOS, Android and the web (PWA) · [code](https://github.com/yeldynov/gvozdi) · `React Native` `Expo` `Expo Router` `TypeScript`
 - [Photographer portfolio](https://wondrous-lolly-081cc0.netlify.app/) — portfolio site with a photo gallery · [code](https://github.com/yeldynov/photographer-alina) · `React` `Framer Motion`
 - [AI Startup](https://ai-startup-lp.netlify.app/) — landing page for an AI-powered photo search product · [code](https://github.com/yeldynov/ai-startup-lp) · `React` `Tailwind CSS`
 - [EVO Gym](https://gleeful-lebkuchen-0c1740.netlify.app/) — landing page for a fitness gym · [code](https://github.com/yeldynov/gym-landing-typescript) · `React` `TypeScript` `Framer Motion`
