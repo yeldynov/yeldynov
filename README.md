@@ -17,13 +17,13 @@
 ### 💼 Projects
 
 **[Gvozdi](https://gvozdi.expo.app)** — calm companion for nail board practice on iOS, Android and the web.\
-One Expo codebase ships native apps and an installable offline PWA in English, Ukrainian and Russian. Three practice modes with timers that survive backgrounding and reloads, streaks, achievements and charts, and an email-code account that syncs sessions across devices. Every push deploys the web app and an over-the-air update. · [iOS demo](https://appetize.io/app/b_lyoma6htlukdtl3kzqkvycxcte) · [code](https://github.com/yeldynov/gvozdi)\
+One Expo codebase ships native apps and an installable offline PWA in English, Ukrainian and Russian. Three practice modes with timers that survive backgrounding and reloads, streaks, achievements and charts, and an email-code account that syncs sessions across devices. Every push deploys the web app and an over-the-air update. Four skins, each with light and dark themes. · [iOS demo](https://appetize.io/app/b_lyoma6htlukdtl3kzqkvycxcte) · [code](https://github.com/yeldynov/gvozdi)\
 `React Native` `Expo` `TypeScript` `Zustand` `Clerk` `Drizzle` `PostgreSQL` `PostHog`
 
 <p>
-  <img src="https://raw.githubusercontent.com/yeldynov/gvozdi/HEAD/docs/screenshots/home.png" width="13%" alt="Gvozdi home screen with streak and today's practice">
-  <img src="https://raw.githubusercontent.com/yeldynov/gvozdi/HEAD/docs/screenshots/session.png" width="13%" alt="Gvozdi peak session with the intensity curve">
-  <img src="https://raw.githubusercontent.com/yeldynov/gvozdi/HEAD/docs/screenshots/progress.png" width="13%" alt="Gvozdi progress screen with streak, level and totals">
+  <img src="./screenshots/gvozdi-home-earthy.png" width="13%" alt="Gvozdi home in the Earthy skin: 21-day program, streak tree and this week">
+  <img src="./screenshots/gvozdi-session-ink.png" width="13%" alt="Gvozdi peak session with the intensity curve, Ink skin">
+  <img src="./screenshots/gvozdi-settings-earthy.png" width="13%" alt="Gvozdi skin picker showing Earthy, Herbarium, Ink and Dusk">
 </p>
 
 **[Old Road](https://tea-shop-coral.vercel.app/)** — full-stack e-commerce store for Chinese tea\
