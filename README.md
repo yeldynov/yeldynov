@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.svg" width="100%" alt="Nikita Yeldynov — Full Stack Developer: Next.js, React, TypeScript, Node.js">
+  <img src="./banner.png" width="100%" alt="Nikita Yeldynov, full-stack developer in Kharkiv, Ukraine: Next.js apps for SaaS, e-commerce and education. Toolbox: Next.js, React, TypeScript, Node.js, PostgreSQL. Top Rated on Upwork, 100% Job Success.">
 </p>
 
 <p align="center">
